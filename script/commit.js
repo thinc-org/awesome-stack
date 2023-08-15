@@ -20,6 +20,8 @@ const raw = process.env.payload_data;
 
 const data = JSON.parse(raw);
 
+console.log("data", data);
+
 const stored = fs.readFileSync("./data.json", "utf-8");
 
 const storedData = JSON.parse(stored);
@@ -28,7 +30,6 @@ const storedData = JSON.parse(stored);
 if (data?.package_url) {
     storedData.push(data);
 
-    console.log("storedData", storedData);
     fs.writeFileSync("./data.json", JSON.stringify(storedData));
 }
 
