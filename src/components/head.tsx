@@ -14,15 +14,6 @@ const SearchBar = ({
 }) => {
   const [page, setPage] = useState<"root" | "projects">("root");
   const [search, setSearch] = useState("");
-  // const filteredItems = filterItems(
-  //   contentStore.map((content) => ({
-  //     id: content.title,
-  //     title: content.content.title,
-  //     description: content.content.description,
-  //   })),
-  //   search
-  // );
-  console.log(content);
   return (
     <CommandPalette
       onChangeSearch={setSearch}
@@ -31,24 +22,7 @@ const SearchBar = ({
       isOpen={isOpen}
       page={page}
     >
-      {/* <CommandPalette.Page id="root">
-        {filteredItems.length ? (
-          filteredItems.map((list) => (
-            <CommandPalette.List key={list.id} heading={list.heading}>
-              {list.items.map(({ id, ...rest }) => (
-                <CommandPalette.ListItem
-                  key={id}
-                  index={getItemIndex(filteredItems, id)}
-                  {...rest}
-                />
-              ))}
-            </CommandPalette.List>
-          ))
-        ) : (
-          <CommandPalette.FreeSearchAction />
-        )}
-      </CommandPalette.Page> */}
-      <CommandPalette.List>
+      {/* <CommandPalette.List>
         {content.map((content, i) => (
           <CommandPalette.ListItem
             key={content.title}
@@ -59,7 +33,7 @@ const SearchBar = ({
             onSelect={console.log}
           />
         ))}
-      </CommandPalette.List>
+      </CommandPalette.List> */}
     </CommandPalette>
   );
 };
