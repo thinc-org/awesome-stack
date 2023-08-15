@@ -14,6 +14,7 @@
     "@astrojs/rss": "^2.4.4",
     "@astrojs/sitemap": "^2.0.1",
     "@astrojs/tailwind": "^4.0.0",
+    "@nanostores/react": "^0.7.1",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
     "algoliasearch": "^4.19.1",

@@ -1,15 +1,15 @@
 export const getLinkMetadata = async (url: string) => {
   const res = await fetch(url);
   const html = await res.text();
-  const match = html.match(/<meta property="og:image" content="(.+?)"/);
-  const titleMatch = html.match(/<title>(.+?)<\/title>/);
-  const descriptionMatch = html.match(
-    /<meta name="description" content="(.+?)">/
+  const match = html.match(
+    /<meta[^>]*property="og:image"[^>]*content="([^"]+)"/i
   );
-  const title = titleMatch ? titleMatch[1] : "";
+  const descriptionMatch = html.match(
+    /<meta\s+name="description"\s+content="([^"]+)"/i
+  );
   const description = descriptionMatch ? descriptionMatch[1] : "";
   const image = match ? match[1] : "";
-  return { title, description, image };
+  return { description, image, url };
 };
 
 export const getLinks = (content: string) => {

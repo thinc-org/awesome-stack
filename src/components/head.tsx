@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 import CommandPalette, { filterItems, getItemIndex } from "react-cmdk";
+import { useStore } from "@nanostores/react";
+import { $content } from "../stores/search";
 
 const SearchBar = ({
   isOpen,
@@ -10,65 +12,15 @@ const SearchBar = ({
 }) => {
   const [page, setPage] = useState<"root" | "projects">("root");
   const [search, setSearch] = useState("");
-
-  const filteredItems = filterItems(
-    [
-      {
-        heading: "Home",
-        id: "home",
-        items: [
-          {
-            id: "home",
-            children: "Home",
-            icon: "HomeIcon",
-            href: "#",
-          },
-          {
-            id: "settings",
-            children: "Settings",
-            icon: "CogIcon",
-            href: "#",
-          },
-          {
-            id: "projects",
-            children: "Projects",
-            icon: "RectangleStackIcon",
-            closeOnSelect: false,
-            onClick: () => {
-              setPage("projects");
-            },
-          },
-        ],
-      },
-      {
-        heading: "Other",
-        id: "advanced",
-        items: [
-          {
-            id: "developer-settings",
-            children: "Developer settings",
-            icon: "CodeBracketIcon",
-            href: "#",
-          },
-          {
-            id: "privacy-policy",
-            children: "Privacy policy",
-            icon: "LifebuoyIcon",
-            href: "#",
-          },
-          {
-            id: "log-out",
-            children: "Log out",
-            icon: "ArrowRightOnRectangleIcon",
-            onClick: () => {
-              alert("Logging out...");
-            },
-          },
-        ],
-      },
-    ],
-    search
-  );
+  const contentStore = useStore($content);
+  // const filteredItems = filterItems(
+  //   contentStore.map((content) => ({
+  //     id: content.title,
+  //     title: content.content.title,
+  //     description: content.content.description,
+  //   })),
+  //   search
+  // );
 
   return (
     <CommandPalette
@@ -78,7 +30,7 @@ const SearchBar = ({
       isOpen={isOpen}
       page={page}
     >
-      <CommandPalette.Page id="root">
+      {/* <CommandPalette.Page id="root">
         {filteredItems.length ? (
           filteredItems.map((list) => (
             <CommandPalette.List key={list.id} heading={list.heading}>
@@ -94,11 +46,7 @@ const SearchBar = ({
         ) : (
           <CommandPalette.FreeSearchAction />
         )}
-      </CommandPalette.Page>
-
-      <CommandPalette.Page id="projects">
-        {/* Projects page */}
-      </CommandPalette.Page>
+      </CommandPalette.Page> */}
     </CommandPalette>
   );
 };

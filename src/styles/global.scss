@@ -31,3 +31,12 @@ html {
   font-family: "Outfit", sans-serif;
   font-family: "Space Mono", monospace;
 }
+
+img:before {
+  content: " ";
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  @apply bg-gradient-to-t from-cyan-600 to-teal-700;
+}

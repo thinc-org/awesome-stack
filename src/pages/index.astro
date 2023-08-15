@@ -2,9 +2,10 @@
 import Layout from "../layouts/layout.astro";
 import { Head } from "../components/head";
 import { parseContent } from "../utils/posts";
-
+import { $content } from "../stores/search";
 interface IFrontmatter {
   by: string;
+  title: string;
   tag: string[];
 }
 
@@ -18,6 +19,8 @@ const parsedContent = await Promise.all(
     (async () => ({ ...c, content: await parseContent(c.content) }))()
   )
 );
+
+$content.set(parsedContent);
 ---
 
 <Layout>
@@ -26,15 +29,34 @@ const parsedContent = await Promise.all(
   </div>
   <div class="grid grid-cols-2 mx-auto max-w-[80vw] w-full my-12 gap-4">
     {
-      parsedContent.map(({ content, tag }) => (
-        <div class="bg-gray-800 rounded-lg border-white border border-opacity-10 p-4">
-          <h2 class="font-bold text-lg">{content.title}</h2>
-          <img
-            src={content.image}
-            alt={content.title}
-            class="w-full rounded-lg my-4"
-          />
-          <p>{content.description}</p>
+      parsedContent.map(({ content, tag, title }) => (
+        <div class="bg-gray-800 rounded-lg border-white border flex flex-col border-opacity-10 p-4">
+          <a href={content.url} class="font-bold text-lg">
+            {title}
+          </a>
+          <div class="flex gap-2">
+            {tag.map((t) => (
+              <a
+                href={`/${t}`}
+                class="text-xs bg-gray-700 rounded-lg px-2 py-1 my-1"
+              >
+                {t}
+              </a>
+            ))}
+          </div>
+
+          <a href={content.url} class="flex-1 flex">
+            <img
+              src={content.image}
+              alt={title}
+              class="w-full rounded-lg my-4 relative flex-1"
+            />
+          </a>
+          <p>
+            {content.description != ""
+              ? content.description
+              : `there are no description for ${title} to find out more click on the title`}
+          </p>
         </div>
       ))
     }
