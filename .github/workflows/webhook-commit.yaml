@@ -37,5 +37,8 @@ jobs:
 
   build:
     needs: run_js_script
-    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        platform: [ubuntu-latest]
+
     uses: ./.github/workflows/deploy.yaml
