@@ -1,20 +1,42 @@
 ---
 import Layout from "../layouts/layout.astro";
-import Head from "../components/head.astro";
-import { getPosts } from "../utils/posts";
+import { Head } from "../components/head";
+import { parseContent } from "../utils/posts";
+
+interface IFrontmatter {
+  by: string;
+  tag: string[];
+}
+
+const content = (await Astro.glob("./things/*.md")).map((thing) => ({
+  ...(thing.frontmatter as IFrontmatter),
+  content: thing.rawContent(),
+}));
+
+const parsedContent = await Promise.all(
+  content.map((c) =>
+    (async () => ({ ...c, content: await parseContent(c.content) }))()
+  )
+);
 ---
 
 <Layout>
   <div class="mt-10 mx-auto">
-    <Head />
+    <Head client:load />
   </div>
-  <div class="mx-auto max-w-[80vw] w-full my-12 gap-4">
-    <div
-      class="bg-[#0d0d0d] rounded-lg border-white border border-opacity-10 p-4"
-    >
-      <h2 class="font-bold">
-        GitHub - typestack/routing-controllers: Create structured, declarat...
-      </h2>
-    </div>
+  <div class="grid grid-cols-2 mx-auto max-w-[80vw] w-full my-12 gap-4">
+    {
+      parsedContent.map(({ content, tag }) => (
+        <div class="bg-[#0d0d0d] rounded-lg border-white border border-opacity-10 p-4">
+          <h2 class="font-bold text-lg">{content.title}</h2>
+          <img
+            src={content.image}
+            alt={content.title}
+            class="w-full rounded-lg my-4"
+          />
+          <p>{content.description}</p>
+        </div>
+      ))
+    }
   </div>
 </Layout>
