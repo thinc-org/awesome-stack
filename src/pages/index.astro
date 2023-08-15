@@ -25,7 +25,7 @@ $content.set(parsedContent);
 
 <Layout>
   <div class="mt-10 mx-auto">
-    <Head client:idle content={parsedContent} />
+    <Head client:load content={parsedContent} />
   </div>
   <div class="grid grid-cols-2 mx-auto max-w-[80vw] w-full my-12 gap-4">
     {

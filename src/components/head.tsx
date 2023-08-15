@@ -66,7 +66,7 @@ export const Head = ({ content }: { content: Content }) => {
           <p className="inline leading-none">K</p>
         </div>
       </div>
-      <SearchBar isOpen={isOpen} content={content} setOpen={setIsOpen} />
+      {/* <SearchBar isOpen={isOpen} content={content} setOpen={setIsOpen} /> */}
     </div>
   );
 };
