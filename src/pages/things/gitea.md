@@ -1,6 +1,6 @@
 ---
 
-title: about.gitea 
+title: gitea 
 
 tag: 
 

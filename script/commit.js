@@ -75,8 +75,8 @@ const tagGroup = Array.from(tagMap).sort(cmp((v) => v[0].toLowerCase()));
 mdString += `## Contents\n\n`;
 
 tagGroup.forEach(([tag], index) => {
-    tag = tag[0].toUpperCase() + tag.slice(1);
-    mdString += `${index + 1}. [${tag}](#${tag})\n`;
+    const capitalizedTag = tag[0].toUpperCase() + tag.slice(1);
+    mdString += `${index + 1}. [${capitalizedTag}](#${tag})\n`;
 });
 
 // add packages list
