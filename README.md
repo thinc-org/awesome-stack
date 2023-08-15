@@ -10,10 +10,10 @@
 7. [Framework](#framework)
 8. [Frontend](#frontend)
 9. [Git](#git)
-10. [IDE](#IDE)
+10. [IDE](#ide)
 11. [Service](#service)
 12. [Terminal](#terminal)
-13. [VIM](#VIM)
+13. [VIM](#vim)
 ## Auth
 
 - [clerk](https://clerk.com/)
