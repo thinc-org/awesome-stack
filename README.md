@@ -1,18 +1,18 @@
 # Awesome Stack!
 ## Contents
 
-1. [Auth](#Auth)
-2. [Backend](#Backend)
-3. [Database](#Database)
-4. [Devops](#Devops)
-5. [Discord](#Discord)
-6. [Event](#Event)
-7. [Framework](#Framework)
-8. [Frontend](#Frontend)
-9. [Git](#Git)
+1. [Auth](#auth)
+2. [Backend](#backend)
+3. [Database](#database)
+4. [Devops](#devops)
+5. [Discord](#discord)
+6. [Event](#event)
+7. [Framework](#framework)
+8. [Frontend](#frontend)
+9. [Git](#git)
 10. [IDE](#IDE)
-11. [Service](#Service)
-12. [Terminal](#Terminal)
+11. [Service](#service)
+12. [Terminal](#terminal)
 13. [VIM](#VIM)
 ## Auth
 
