@@ -20,9 +20,15 @@ jobs:
 
             - name: Run JavaScript Script
               run: |
-                  payload_data=$(echo "${{ toJson(github.event.client_payload) }}")
+                  payload_data=$(echo "${{ toJson(github.event.client_payload) }}" | tr -d '\n')
 
                   echo $payload_data
 
                   # Execute your JavaScript script here
                   node script/commit.js $payload_data
+
+            - name: Commit Files
+              uses: EndBug/add-and-commit@v7
+              with:
+                  author_name: GitHub Actions
+                  message: "action: add new package"
