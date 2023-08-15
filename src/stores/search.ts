@@ -4,7 +4,7 @@ export const $search = atom<string>("");
 
 export const $searchResults = atom<string[]>([]);
 
-type Content = {
+export type Content = {
   content: {
     description: string;
     image: string;

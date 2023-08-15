@@ -1,18 +1,19 @@
 import { useEffect, useState } from "react";
 import CommandPalette, { filterItems, getItemIndex } from "react-cmdk";
 import { useStore } from "@nanostores/react";
-import { $content } from "../stores/search";
+import type { Content } from "../stores/search";
 
 const SearchBar = ({
   isOpen,
   setOpen,
+  content,
 }: {
   isOpen: boolean;
   setOpen: (v: boolean) => void;
+  content: Content;
 }) => {
   const [page, setPage] = useState<"root" | "projects">("root");
   const [search, setSearch] = useState("");
-  const contentStore = useStore($content);
   // const filteredItems = filterItems(
   //   contentStore.map((content) => ({
   //     id: content.title,
@@ -21,7 +22,7 @@ const SearchBar = ({
   //   })),
   //   search
   // );
-
+  console.log(content);
   return (
     <CommandPalette
       onChangeSearch={setSearch}
@@ -47,11 +48,23 @@ const SearchBar = ({
           <CommandPalette.FreeSearchAction />
         )}
       </CommandPalette.Page> */}
+      <CommandPalette.List>
+        {content.map((content, i) => (
+          <CommandPalette.ListItem
+            key={content.title}
+            index={i}
+            title={content.title}
+            children={content.title}
+            keywords={content.tag}
+            onSelect={console.log}
+          />
+        ))}
+      </CommandPalette.List>
     </CommandPalette>
   );
 };
 
-export const Head = () => {
+export const Head = ({ content }: { content: Content }) => {
   const [isOpen, setIsOpen] = useState(false);
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -62,6 +75,7 @@ export const Head = () => {
     document.addEventListener("keydown", handleKeyDown);
     return () => document.removeEventListener("keydown", handleKeyDown);
   }, []);
+
   return (
     <div className="mx-auto">
       <div className="text-4xl font-bold text-center">Awesome Stack</div>
@@ -78,7 +92,7 @@ export const Head = () => {
           <p className="inline leading-none">K</p>
         </div>
       </div>
-      <SearchBar isOpen={isOpen} setOpen={setIsOpen} />
+      <SearchBar isOpen={isOpen} content={content} setOpen={setIsOpen} />
     </div>
   );
 };
