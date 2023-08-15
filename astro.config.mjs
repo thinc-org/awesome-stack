@@ -8,5 +8,6 @@ import react from "@astrojs/react";
 // https://astro.build/config
 export default defineConfig({
   site: "https://awesome-stack.github.io",
+  output: "static",
   integrations: [mdx(), sitemap(), tailwind(), react()],
 });
