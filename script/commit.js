@@ -71,6 +71,15 @@ let mdString = fs.readFileSync("./script/template/readme-header.md", "utf-8");
 
 const tagGroup = Array.from(tagMap).sort(cmp((v) => v[0].toLowerCase()));
 
+// add table of contents
+mdString += `## Contents\n\n`;
+
+tagGroup.forEach(([tag], index) => {
+    tag = tag[0].toUpperCase() + tag.slice(1);
+    mdString += `${index + 1}. [${tag}](#${tag})\n`;
+});
+
+// add packages list
 for (let [tag, items] of tagGroup) {
     tag = tag[0].toUpperCase() + tag.slice(1);
     mdString += `## ${tag}\n\n`;
