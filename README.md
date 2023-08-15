@@ -5,11 +5,12 @@
 2. [Backend](#Backend)
 3. [Devops](#Devops)
 4. [Discord](#Discord)
-5. [Framework](#Framework)
-6. [Frontend](#Frontend)
-7. [Git](#Git)
-8. [IDE](#IDE)
-9. [VIM](#VIM)
+5. [Event](#Event)
+6. [Framework](#Framework)
+7. [Frontend](#Frontend)
+8. [Git](#Git)
+9. [IDE](#IDE)
+10. [VIM](#VIM)
 ## Auth
 
 - [clerk](https://clerk.com/)
@@ -23,6 +24,9 @@
 ## Discord
 
 - [discord.js](https://discord.js.org/)
+## Event
+
+- [www.eventpop.me](https://www.eventpop.me/e/15612)
 ## Framework
 
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood)
