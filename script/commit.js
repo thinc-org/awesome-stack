@@ -37,5 +37,5 @@ if (data?.package_url) {
 for (const item of storedData) {
     const mdString = buildMDString(item);
 
-    fs.writeFileSync(`./src/pages/things/${item.package_name}.md`, mdString);
+    fs.writeFileSync(`./src/pages/things/${item.package_name.replace("/", "")}.md`, mdString);
 }
