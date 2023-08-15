@@ -30,6 +30,7 @@
 
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood)
 - [thinc-org/cugetreg](https://github.com/thinc-org/cugetreg)
+- [www.aceternity](https://www.aceternity.com/components/animated-pin)
 ## Git
 
 - [about.gitea](https://about.gitea.com/)
