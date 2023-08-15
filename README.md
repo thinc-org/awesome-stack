@@ -12,7 +12,8 @@
 9. [Git](#Git)
 10. [IDE](#IDE)
 11. [Service](#Service)
-12. [VIM](#VIM)
+12. [Terminal](#Terminal)
+13. [VIM](#VIM)
 ## Auth
 
 - [clerk](https://clerk.com/)
@@ -49,6 +50,9 @@
 ## Service
 
 - [styfle/dub](https://github.com/styfle/dub)
+## Terminal
+
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
 ## VIM
 
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
