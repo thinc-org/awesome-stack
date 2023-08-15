@@ -7,7 +7,8 @@ import react from "@astrojs/react";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://thinc-org.github.io/awesome-stack",
+  site: "https://thinc-org.github.io/",
+  base: "/awesome-stack",
   integrations: [
     mdx(),
     sitemap(),
