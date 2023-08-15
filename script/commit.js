@@ -1,3 +1,5 @@
+import fs from "fs";
+
 function buildMDString(data) {
     const { title, tags, recommend_by_user, recommend_from_server, package_url } = data;
     const tagsString = tags.map((tag) => `- ${tag}`).join("\n");
