@@ -26,13 +26,13 @@
 - [supabase](https://supabase.com/blog/supabase-local-dev)
 ## Devops
 
-- [about.gitea](https://about.gitea.com/)
+- [gitea](https://about.gitea.com/)
 ## Discord
 
 - [discord.js](https://discord.js.org/)
 ## Event
 
-- [www.eventpop.me](https://www.eventpop.me/e/15612)
+- [eventpop.me](https://www.eventpop.me/e/15612)
 ## Framework
 
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood)
@@ -43,7 +43,7 @@
 - [www.aceternity](https://www.aceternity.com/components/animated-pin)
 ## Git
 
-- [about.gitea](https://about.gitea.com/)
+- [gitea](https://about.gitea.com/)
 ## IDE
 
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)

@@ -1,6 +1,6 @@
 ---
 
-title: www.eventpop.me 
+title: eventpop.me 
 
 tag: 
 
