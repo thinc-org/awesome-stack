@@ -1,11 +1,11 @@
 import fs from "fs";
 
 function buildMDString(data) {
-    const { title, tags, recommend_by_user, recommend_from_server, package_url } = data;
+    const { package_name, tags, recommend_by_user, recommend_from_server, package_url } = data;
     const tagsString = tags.map((tag) => `- ${tag}`).join("\n");
 
     return `---\n\r
-    title: ${title} \n\r
+    title: ${package_name} \n\r
     tag: \n\r
     ${tagsString} \n\r
     by: ${recommend_by_user} \n\r
@@ -37,5 +37,5 @@ if (data?.package_url) {
 for (const item of storedData) {
     const mdString = buildMDString(item);
 
-    fs.writeFileSync(`./src/pages/thins/${item.title}.md`, mdString);
+    fs.writeFileSync(`./src/pages/things/${item.package_name}.md`, mdString);
 }
