@@ -41,4 +41,4 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: ./deploy.yaml
+        uses: ./.github/workflows/deploy.yaml
