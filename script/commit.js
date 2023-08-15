@@ -14,7 +14,7 @@ function buildMDString(data) {
     `;
 }
 
-const raw = process.argv[2];
+const raw = process.env.payload_data;
 
 const data = JSON.parse(raw);
 

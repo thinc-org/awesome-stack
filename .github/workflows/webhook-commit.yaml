@@ -22,12 +22,10 @@ jobs:
               env:
                   payload_data: ${{ toJson(github.event.client_payload) }}
               run: |
-                  payload_data=$(echo "${{ toJson(github.event.client_payload) }}" | tr -d '\n')
-
                   echo $payload_data
 
                   # Execute your JavaScript script here
-                  node script/commit.js $payload_data
+                  node script/commit.js
 
             - name: Commit Files
               uses: EndBug/add-and-commit@v7
