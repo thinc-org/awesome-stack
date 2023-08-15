@@ -41,4 +41,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Run build
         uses: ./deploy.yaml
