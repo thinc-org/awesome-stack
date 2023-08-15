@@ -22,12 +22,12 @@ const parsedContent = await Promise.all(
 
 <Layout>
   <div class="mt-10 mx-auto">
-    <Head client:load />
+    <Head client:idle />
   </div>
   <div class="grid grid-cols-2 mx-auto max-w-[80vw] w-full my-12 gap-4">
     {
       parsedContent.map(({ content, tag }) => (
-        <div class="bg-[#0d0d0d] rounded-lg border-white border border-opacity-10 p-4">
+        <div class="bg-gray-800 rounded-lg border-white border border-opacity-10 p-4">
           <h2 class="font-bold text-lg">{content.title}</h2>
           <img
             src={content.image}

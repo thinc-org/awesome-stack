@@ -1,9 +1,14 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import CommandPalette, { filterItems, getItemIndex } from "react-cmdk";
 
-const SearchBar = ({ isOpen }: { isOpen: boolean }) => {
+const SearchBar = ({
+  isOpen,
+  setOpen,
+}: {
+  isOpen: boolean;
+  setOpen: (v: boolean) => void;
+}) => {
   const [page, setPage] = useState<"root" | "projects">("root");
-  const [open, setOpen] = useState<boolean>(false);
   const [search, setSearch] = useState("");
 
   const filteredItems = filterItems(
@@ -70,7 +75,7 @@ const SearchBar = ({ isOpen }: { isOpen: boolean }) => {
       onChangeSearch={setSearch}
       onChangeOpen={setOpen}
       search={search}
-      isOpen={open}
+      isOpen={isOpen}
       page={page}
     >
       <CommandPalette.Page id="root">
@@ -100,19 +105,32 @@ const SearchBar = ({ isOpen }: { isOpen: boolean }) => {
 
 export const Head = () => {
   const [isOpen, setIsOpen] = useState(false);
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === "k" && e.metaKey) {
+        setIsOpen(true);
+      }
+    };
+    document.addEventListener("keydown", handleKeyDown);
+    return () => document.removeEventListener("keydown", handleKeyDown);
+  }, []);
   return (
     <div className="mx-auto">
       <div className="text-4xl font-bold text-center">Awesome Stack</div>
       <div className="text-center font-thin">
         list of awesome things to add to your stack curated with love by Thinc.
       </div>
-      <div className="p-3 cursor-pointer z-50 w-full border backdrop-blur-xl border-white flex justify-between border-opacity-20 rounded-lg mt-10">
+      <div
+        onClick={() => setIsOpen(true)}
+        className="p-3 cursor-pointer z-50 w-full border bg-gray-800 border-white flex justify-between border-opacity-20 rounded-lg mt-10"
+      >
         <div className="text-white font-thin">Find something awesome...</div>
-        <div onClick={() => setIsOpen(true)} className="font-mono">
-          ⌘K
+        <div className="font-mono space-x-0.5">
+          <p className="inline text-lg leading-none pt-0.5">⌘</p>
+          <p className="inline leading-none">K</p>
         </div>
       </div>
-      <SearchBar isOpen={isOpen} />
+      <SearchBar isOpen={isOpen} setOpen={setIsOpen} />
     </div>
   );
 };
