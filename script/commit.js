@@ -16,15 +16,6 @@ ${package_url} \n
 `;
 }
 
-async function getDesc(url) {
-    const res = await fetch(url);
-    const html = await res.text();
-    const descriptionMatch = html.match(/<meta name="description" content="([^"]+?)"(.?)>/);
-
-    const description = descriptionMatch ? descriptionMatch[1] : "";
-    return description;
-}
-
 function cmp(f) {
     return (a, b) => {
         if (f(a) < f(b)) {
@@ -79,15 +70,12 @@ for (const item of storedData) {
 let mdString = fs.readFileSync("./script/template/readme-header.md", "utf-8");
 
 const tagGroup = Array.from(tagMap).sort(cmp((v) => v[0].toLowerCase()));
-console.log("tagGroup", tagGroup);
 
 for (let [tag, items] of tagGroup) {
     tag = tag[0].toUpperCase() + tag.slice(1);
     mdString += `## ${tag}\n\n`;
 
     for (const item of items) {
-        const desc = await getDesc(item.package_url);
-
         mdString += `- [${item.package_name}](${item.package_url})\n`;
     }
 }
