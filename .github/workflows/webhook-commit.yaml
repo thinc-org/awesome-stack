@@ -19,6 +19,8 @@ jobs:
                   node-version: 14 # Choose the desired Node.js version
 
             - name: Run JavaScript Script
+              env:
+                  payload_data: ${{ toJson(github.event.client_payload) }}
               run: |
                   payload_data=$(echo "${{ toJson(github.event.client_payload) }}" | tr -d '\n')
 
