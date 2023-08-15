@@ -20,8 +20,9 @@ jobs:
 
             - name: Run JavaScript Script
               run: |
+                  payload_data=$(echo "${{ toJson(github.event.client_payload) }}")
 
-                  echo ${{ github.event.client_payload.data }}
+                  echo $payload_data
 
                   # Execute your JavaScript script here
-                  node script/commit.js ${{ github.event.client_payload.data }}
+                  node script/commit.js $payload_data
