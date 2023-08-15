@@ -1,15 +1,15 @@
 import fs from "fs";
 
 function buildMDString(data) {
-    const { package_name, tags, recommend_by_user, recommend_from_server, package_url } = data;
+    const { package_name, tags, by_user, from_server, package_url } = data;
     const tagsString = tags.map((tag) => `  - ${tag}`).join("\n");
 
     return `---\n
 title: ${package_name} \n
 tag: \n
 ${tagsString} \n
-by: ${recommend_by_user} \n
-from: ${recommend_from_server} \n
+by: ${by_user} \n
+from: ${from_server} \n
 ---\n
 \n
 ${package_url} \n
