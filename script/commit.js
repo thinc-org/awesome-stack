@@ -28,6 +28,7 @@ const storedData = JSON.parse(stored);
 if (data?.package_url) {
     storedData.push(data);
 
+    console.log("storedData", storedData);
     fs.writeFileSync("./data.json", JSON.stringify(storedData));
 }
 
