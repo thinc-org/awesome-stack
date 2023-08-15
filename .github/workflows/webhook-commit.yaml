@@ -22,8 +22,6 @@ jobs:
               env:
                   payload_data: ${{ toJson(github.event.client_payload) }}
               run: |
-                  echo $payload_data
-
                   # Execute your JavaScript script here
                   node script/commit.js
 
@@ -31,4 +29,4 @@ jobs:
               uses: EndBug/add-and-commit@v7
               with:
                   author_name: GitHub Actions
-                  message: "action: add new package"
+                  message: "action(auto): add new package"

@@ -2,18 +2,18 @@ import fs from "fs";
 
 function buildMDString(data) {
     const { package_name, tags, recommend_by_user, recommend_from_server, package_url } = data;
-    const tagsString = tags.map((tag) => `- ${tag}`).join("\n");
+    const tagsString = tags.map((tag) => `\t- ${tag}`).join("\n");
 
     return `---\n\r
-    title: ${package_name} \n\r
-    tag: \n\r
-    ${tagsString} \n\r
-    by: ${recommend_by_user} \n\r
-    from: ${recommend_from_server} \n\r
-    ---\n\r
-    \n\r
-    ${package_url} \n\r
-    `;
+title: ${package_name} \n\r
+tag: \n\r
+${tagsString} \n\r
+by: ${recommend_by_user} \n\r
+from: ${recommend_from_server} \n\r
+---\n\r
+\n\r
+${package_url} \n\r
+`;
 }
 
 const raw = process.env.payload_data;
