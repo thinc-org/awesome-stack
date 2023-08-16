@@ -7,16 +7,17 @@
 4. [Backend](#backend)
 5. [Deployment](#deployment)
 6. [Devops](#devops)
-7. [Framework](#framework)
-8. [Frontend](#frontend)
-9. [Git](#git)
-10. [Graphql](#graphql)
-11. [Ide](#ide)
-12. [Language](#language)
-13. [Service](#service)
-14. [Terminal](#terminal)
-15. [UI](#ui)
-16. [Web](#web)
+7. [Editor](#editor)
+8. [Framework](#framework)
+9. [Frontend](#frontend)
+10. [Git](#git)
+11. [Graphql](#graphql)
+12. [Ide](#ide)
+13. [Language](#language)
+14. [Service](#service)
+15. [Terminal](#terminal)
+16. [UI](#ui)
+17. [Web](#web)
 ## Animation
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
@@ -43,6 +44,9 @@
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [gitea](https://about.gitea.com/) - Lightweight DevOps Platform
 - [supabase/supabase-local-dev](https://supabase.com/blog/supabase-local-dev) - Run Supabase locally for development and testing
+## Editor
+
+- [helix-editor](https://helix-editor.com/) - A minimal terminal text editor with a focus on speed and simplicity.
 ## Framework
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
@@ -82,6 +86,7 @@
 
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
+- [helix-editor](https://helix-editor.com/) - A minimal terminal text editor with a focus on speed and simplicity.
 - [styfle/dub](https://github.com/styfle/dub) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
 ## UI
 
