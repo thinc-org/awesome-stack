@@ -76,7 +76,7 @@ mdString += `## Contents\n\n`;
 
 tagGroup.forEach(([tag], index) => {
     const capitalizedTag = tag[0].toUpperCase() + tag.slice(1);
-    mdString += `${index + 1}. [${capitalizedTag}](#${tag})\n`;
+    mdString += `${index + 1}. [${capitalizedTag}](#${tag.toLowerCase()})\n`;
 });
 
 // add packages list
