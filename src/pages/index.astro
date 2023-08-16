@@ -30,11 +30,13 @@ const parsedContent = await Promise.all(
   <div class="mt-10 mx-auto max-w-[80vw]">
     <Head client:only content={parsedContent} />
   </div>
-  <div class="grid grid-cols-2 mx-auto max-w-[80vw] w-full my-12 gap-4">
+  <div
+    class="md:grid flex flex-col grid-cols-2 mx-auto max-w-[80vw] w-full my-12 gap-4"
+  >
     {
       parsedContent.map(({ content, tag, title, by, from, desc }) => (
         <div class="bg-gray-800 rounded-lg border-white border flex flex-col border-opacity-10 p-4">
-          <div class="flex justify-between">
+          <div class="flex justify-between w-full overflow-hidden">
             <a href={content.url} class="font-bold text-lg">
               {title}
             </a>
@@ -43,7 +45,7 @@ const parsedContent = await Promise.all(
               <div>from {from}</div>
             </div>
           </div>
-          <div class="flex gap-2">
+          <div class="flex no-scrollbar gap-2 w-full overflow-scroll">
             {tag.map((t) => (
               <a
                 href={`/${t}`}

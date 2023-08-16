@@ -1,5 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Albert+Sans&display=swap");
 
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
 .bg-grid {
   background-size: 20px 20px;
   background-image: linear-gradient(
@@ -26,7 +36,7 @@
 }
 
 html {
-  @apply bg-black text-white;
+  @apply bg-black text-white inset-0;
   font-family: "Albert Sans", sans-serif;
 }
 
