@@ -4,7 +4,11 @@ title: styfle/dub
 
 tag: 
 
-  - service 
+  - frontend
+  - backend
+  - terminal 
+
+desc: Dub is an open-source link management tool for modern marketing teams to create, share, and track short links. 
 
 by: p16w 
 

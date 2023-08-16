@@ -4,8 +4,9 @@ title: gitea
 
 tag: 
 
-  - git
   - devops 
+
+desc: Lightweight DevOps Platform 
 
 by: peam1146 
 

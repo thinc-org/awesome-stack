@@ -1,58 +1,81 @@
 # Awesome Stack!
 ## Contents
 
-1. [Auth](#auth)
-2. [Backend](#backend)
-3. [Database](#database)
-4. [Devops](#devops)
-5. [Discord](#discord)
-6. [Event](#event)
+1. [Animation](#animation)
+2. [Api](#api)
+3. [Auth](#auth)
+4. [Backend](#backend)
+5. [Deployment](#deployment)
+6. [Devops](#devops)
 7. [Framework](#framework)
 8. [Frontend](#frontend)
 9. [Git](#git)
-10. [IDE](#ide)
-11. [Service](#service)
-12. [Terminal](#terminal)
-13. [VIM](#vim)
+10. [Graphql](#graphql)
+11. [Ide](#ide)
+12. [Service](#service)
+13. [Terminal](#terminal)
+14. [UI](#ui)
+15. [Web](#web)
+## Animation
+
+- [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
+## Api
+
+- [discord.js](https://discord.js.org/) - A powerful Node.js module that allows you to interact with the Discord API
 ## Auth
 
-- [clerk](https://clerk.com/)
+- [clerk](https://clerk.com/) - Clerk is an authentication and user management service.
 ## Backend
 
-- [discord.js](https://discord.js.org/)
-- [webpod.dev](https://webpod.dev/)
-## Database
+- [CU Get Reg](https://github.com/thinc-org/cugetreg) - A platform for planning timetables and finding course information at Chulalongkorn University.
+- [discord.js](https://discord.js.org/) - A powerful Node.js module that allows you to interact with the Discord API
+- [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
+- [styfle/dub](https://github.com/styfle/dub) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
+- [supabase/supabase-local-dev](https://supabase.com/blog/supabase-local-dev) - Run Supabase locally for development and testing
+## Deployment
 
-- [supabase](https://supabase.com/blog/supabase-local-dev)
+- [Webpod](https://webpod.dev/) - Deploy websites and apps anywhere
 ## Devops
 
-- [gitea](https://about.gitea.com/)
-## Discord
-
-- [discord.js](https://discord.js.org/)
-## Event
-
-- [eventpop.me](https://www.eventpop.me/e/15612)
+- [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
+- [gitea](https://about.gitea.com/) - Lightweight DevOps Platform
+- [supabase/supabase-local-dev](https://supabase.com/blog/supabase-local-dev) - Run Supabase locally for development and testing
 ## Framework
 
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood)
+- [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
+- [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
 ## Frontend
 
-- [aceternity](https://www.aceternity.com/components/animated-pin)
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood)
-- [thinc-org/cugetreg](https://github.com/thinc-org/cugetreg)
+- [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
+- [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
+- [CU Get Reg](https://github.com/thinc-org/cugetreg) - A platform for planning timetables and finding course information at Chulalongkorn University.
+- [Eventpop CSS Meetup](https://www.eventpop.me/e/15612) - Bringing CSS enthusiasts together to discuss new trends and techniques.
+- [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
+- [styfle/dub](https://github.com/styfle/dub) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
 ## Git
 
-- [gitea](https://about.gitea.com/)
-## IDE
+- [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
+## Graphql
 
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+- [CU Get Reg](https://github.com/thinc-org/cugetreg) - A platform for planning timetables and finding course information at Chulalongkorn University.
+- [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
+## Ide
+
+- [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 ## Service
 
-- [styfle/dub](https://github.com/styfle/dub)
+- [clerk](https://clerk.com/) - Clerk is an authentication and user management service.
+- [discord.js](https://discord.js.org/) - A powerful Node.js module that allows you to interact with the Discord API
 ## Terminal
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)
-## VIM
+- [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
+- [styfle/dub](https://github.com/styfle/dub) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
+## UI
 
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim)
+- [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
+## Web
+
+- [CU Get Reg](https://github.com/thinc-org/cugetreg) - A platform for planning timetables and finding course information at Chulalongkorn University.

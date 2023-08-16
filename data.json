@@ -1,1 +1,98 @@
-[{"by_user":"peam1146","from_server":"awesome-dev-bot","package_name":"thinc-org/cugetreg","package_url":"https://github.com/thinc-org/cugetreg","tags":["frontend"]},{"by_user":"peam1146","from_server":"awesome-dev-bot","package_name":"discord.js","package_url":"https://discord.js.org/","tags":["backend","discord"]},{"by_user":"peam1146","from_server":"awesome-dev-bot","package_name":"AstroNvim/AstroNvim","package_url":"https://github.com/AstroNvim/AstroNvim","tags":["VIM","IDE"]},{"by_user":"peam1146","from_server":"awesome-dev-bot","package_name":"gitea","package_url":"https://about.gitea.com/","tags":["git","devops"]},{"by_user":"peam1146","from_server":"awesome-dev-bot","package_name":"redwoodjs/redwood","package_url":"https://github.com/redwoodjs/redwood","tags":["frontend","framework"]},{"by_user":"p16w","from_server":"awesome-dev-bot","package_name":"clerk","package_url":"https://clerk.com/","tags":["auth"]},{"by_user":"p16w","from_server":"awesome-dev-bot","package_name":"webpod.dev","package_url":"https://webpod.dev/","tags":["backend"]},{"by_user":"p16w","from_server":"awesome-dev-bot","package_name":"aceternity","package_url":"https://www.aceternity.com/components/animated-pin","tags":["frontend"]},{"by_user":"peam1146","from_server":"awesome-dev-bot","package_name":"eventpop.me","package_url":"https://www.eventpop.me/e/15612","tags":["event"]},{"by_user":"p16w","from_server":"awesome-dev-bot","package_name":"supabase","package_url":"https://supabase.com/blog/supabase-local-dev","tags":["database"]},{"by_user":"p16w","from_server":"awesome-dev-bot","package_name":"styfle/dub","package_url":"https://github.com/styfle/dub","tags":["service"]},{"by_user":"onfirebyte","from_server":"awesome-dev-bot","package_name":"charmbracelet/bubbletea","package_url":"https://github.com/charmbracelet/bubbletea","tags":["terminal"]}]
+[
+    {
+        "by_user": "peam1146",
+        "from_server": "awesome-dev-bot",
+        "package_name": "CU Get Reg",
+        "package_url": "https://github.com/thinc-org/cugetreg",
+        "tags": ["frontend", "backend", "graphql", "web"],
+        "desc": "A platform for planning timetables and finding course information at Chulalongkorn University."
+    },
+    {
+        "by_user": "peam1146",
+        "from_server": "awesome-dev-bot",
+        "package_name": "discord.js",
+        "package_url": "https://discord.js.org/",
+        "tags": ["backend", "service", "api"],
+        "desc": "A powerful Node.js module that allows you to interact with the Discord API"
+    },
+    {
+        "by_user": "peam1146",
+        "from_server": "awesome-dev-bot",
+        "package_name": "AstroNvim",
+        "package_url": "https://github.com/AstroNvim/AstroNvim",
+        "tags": ["frontend", "terminal", "framework", "devops", "git", "ide"],
+        "desc": "An aesthetic and feature-rich neovim config with a great set of plugins."
+    },
+    {
+        "by_user": "peam1146",
+        "from_server": "awesome-dev-bot",
+        "package_name": "gitea",
+        "package_url": "https://about.gitea.com/",
+        "tags": ["devops"],
+        "desc": "Lightweight DevOps Platform"
+    },
+    {
+        "by_user": "peam1146",
+        "from_server": "awesome-dev-bot",
+        "package_name": "redwood",
+        "package_url": "https://github.com/redwoodjs/redwood",
+        "tags": ["frontend", "backend", "graphql", "framework"],
+        "desc": "Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API."
+    },
+    {
+        "by_user": "p16w",
+        "from_server": "awesome-dev-bot",
+        "package_name": "clerk",
+        "package_url": "https://clerk.com/",
+        "tags": ["auth", "service"],
+        "desc": "Clerk is an authentication and user management service."
+    },
+    {
+        "by_user": "p16w",
+        "from_server": "awesome-dev-bot",
+        "package_name": "Webpod",
+        "package_url": "https://webpod.dev/",
+        "tags": ["deployment"],
+        "desc": "Deploy websites and apps anywhere"
+    },
+    {
+        "by_user": "p16w",
+        "from_server": "awesome-dev-bot",
+        "package_name": "aceternity/animated-pin",
+        "package_url": "https://www.aceternity.com/components/animated-pin",
+        "tags": ["frontend", "animation", "UI"],
+        "desc": "Awesome TailwindCSS and Framer Motion Component"
+    },
+    {
+        "by_user": "peam1146",
+        "from_server": "awesome-dev-bot",
+        "package_name": "Eventpop CSS Meetup",
+        "package_url": "https://www.eventpop.me/e/15612",
+        "tags": ["frontend"],
+        "desc": "Bringing CSS enthusiasts together to discuss new trends and techniques."
+    },
+    {
+        "by_user": "p16w",
+        "from_server": "awesome-dev-bot",
+        "package_name": "supabase/supabase-local-dev",
+        "package_url": "https://supabase.com/blog/supabase-local-dev",
+        "tags": ["backend", "devops"],
+        "desc": "Run Supabase locally for development and testing"
+    },
+    {
+        "by_user": "p16w",
+        "from_server": "awesome-dev-bot",
+        "package_name": "styfle/dub",
+        "package_url": "https://github.com/styfle/dub",
+        "tags": ["frontend", "backend", "terminal"],
+        "desc": "Dub is an open-source link management tool for modern marketing teams to create, share, and track short links."
+    },
+    {
+        "by_user": "onfirebyte",
+        "from_server": "awesome-dev-bot",
+        "package_name": "charmbracelet/bubbletea",
+        "package_url": "https://github.com/charmbracelet/bubbletea",
+        "tags": ["framework", "terminal", "frontend"],
+        "desc": "Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture."
+    }
+]

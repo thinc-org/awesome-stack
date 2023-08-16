@@ -1,13 +1,14 @@
 import fs from "fs";
 
 function buildMDString(data) {
-    const { package_name, tags, by_user, from_server, package_url } = data;
+    const { package_name, tags, desc, by_user, from_server, package_url } = data;
     const tagsString = tags.map((tag) => `  - ${tag}`).join("\n");
 
     return `---\n
 title: ${package_name} \n
 tag: \n
 ${tagsString} \n
+desc: ${desc ?? ""} \n
 by: ${by_user} \n
 from: ${from_server} \n
 ---\n
@@ -85,7 +86,7 @@ for (let [tag, items] of tagGroup) {
     mdString += `## ${tag}\n\n`;
 
     for (const item of items) {
-        mdString += `- [${item.package_name}](${item.package_url})\n`;
+        mdString += `- [${item.package_name}](${item.package_url}) - ${item.desc}\n`;
     }
 }
 

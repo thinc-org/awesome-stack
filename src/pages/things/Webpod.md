@@ -1,10 +1,12 @@
 ---
 
-title: webpod.dev 
+title: Webpod 
 
 tag: 
 
-  - backend 
+  - deployment 
+
+desc: Deploy websites and apps anywhere 
 
 by: p16w 
 

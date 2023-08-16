@@ -1,12 +1,13 @@
 ---
-import Layout from "../layouts/layout.astro";
 import { Head } from "../components/head";
-import { parseContent } from "../utils/posts";
+import Layout from "../layouts/layout.astro";
 import { $content } from "../stores/search";
+import { parseContent } from "../utils/posts";
 interface IFrontmatter {
-  by: string;
-  title: string;
-  tag: string[];
+    by: string;
+    title: string;
+    desc: string;
+    tag: string[];
   from: string;
 }
 
@@ -19,9 +20,7 @@ const content = (await Astro.glob<IFrontmatter>("./things/*.md")).map(
 );
 
 const parsedContent = await Promise.all(
-  content.map((c) =>
-    (async () => ({ ...c, content: await parseContent(c.content) }))()
-  )
+    content.map((c) => (async () => ({ ...c, content: await parseContent(c.content) }))())
 );
 
 $content.set(parsedContent);
@@ -33,7 +32,7 @@ $content.set(parsedContent);
   </div>
   <div class="grid grid-cols-2 mx-auto max-w-[80vw] w-full my-12 gap-4">
     {
-      parsedContent.map(({ content, tag, title, by, from }) => (
+      parsedContent.map(({ content, tag, title, by, from, desc }) => (
         <div class="bg-gray-800 rounded-lg border-white border flex flex-col border-opacity-10 p-4">
           <div class="flex justify-between">
             <a href={content.url} class="font-bold text-lg">
@@ -63,8 +62,8 @@ $content.set(parsedContent);
             />
           </a>
           <p class="line-clamp-4 h-[96px]">
-            {content.description != ""
-              ? content.description
+            {desc != ""
+              ? desc
               : `there are no description for ${title} to find out more click on the title`}
           </p>
         </div>

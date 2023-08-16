@@ -5,7 +5,10 @@ title: discord.js
 tag: 
 
   - backend
-  - discord 
+  - service
+  - api 
+
+desc: A powerful Node.js module that allows you to interact with the Discord API 
 
 by: peam1146 
 

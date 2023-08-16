@@ -4,7 +4,10 @@ title: clerk
 
 tag: 
 
-  - auth 
+  - auth
+  - service 
+
+desc: Clerk is an authentication and user management service. 
 
 by: p16w 
 
