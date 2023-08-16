@@ -19,6 +19,7 @@
 16. [Web](#web)
 ## Animation
 
+- [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
 - [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
 ## Api
 
@@ -44,12 +45,14 @@
 - [supabase/supabase-local-dev](https://supabase.com/blog/supabase-local-dev) - Run Supabase locally for development and testing
 ## Framework
 
+- [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
 - [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
 - [sveltejs/kit](https://kit.svelte.dev/) - Svelte Kit is a framework for building web applications with Svelte
 ## Frontend
 
+- [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
 - [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
