@@ -14,10 +14,12 @@
 11. [Graphql](#graphql)
 12. [Ide](#ide)
 13. [Language](#language)
-14. [Service](#service)
-15. [Terminal](#terminal)
-16. [UI](#ui)
-17. [Web](#web)
+14. [Plugin](#plugin)
+15. [Service](#service)
+16. [Terminal](#terminal)
+17. [UI](#ui)
+18. [Vim](#vim)
+19. [Web](#web)
 ## Animation
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
@@ -78,6 +80,9 @@
 ## Language
 
 - [odin-lang](https://odin-lang.org/) - A fast, concise, statically-typed systems programming language with a focus on expressiveness and ease of use
+## Plugin
+
+- [lazyvim](https://www.lazyvim.org/) - A simple and efficient Vim plugin manager
 ## Service
 
 - [clerk](https://clerk.com/) - Clerk is an authentication and user management service.
@@ -87,10 +92,14 @@
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
 - [helix-editor](https://helix-editor.com/) - A minimal terminal text editor with a focus on speed and simplicity.
+- [lazyvim](https://www.lazyvim.org/) - A simple and efficient Vim plugin manager
 - [styfle/dub](https://github.com/styfle/dub) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
 ## UI
 
 - [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
+## Vim
+
+- [lazyvim](https://www.lazyvim.org/) - A simple and efficient Vim plugin manager
 ## Web
 
 - [CU Get Reg](https://github.com/thinc-org/cugetreg) - A platform for planning timetables and finding course information at Chulalongkorn University.
