@@ -4,9 +4,10 @@ title: lazyvim
 
 tag: 
 
+  - terminal
   - ide 
 
-desc: Simple yet powerful set of Vim shortcuts to help you boost your productivity 
+desc: Simplified Vim configuration for beginners 
 
 by: peam1146 
 

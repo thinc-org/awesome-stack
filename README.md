@@ -78,6 +78,7 @@
 
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [lazyvim](https://www.lazyvim.org/) - Simple yet powerful set of Vim shortcuts to help you boost your productivity
+- [lazyvim](https://www.lazyvim.org/) - Simplified Vim configuration for beginners
 ## Language
 
 - [odin-lang](https://odin-lang.org/) - A fast, concise, statically-typed systems programming language with a focus on expressiveness and ease of use
@@ -94,6 +95,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
 - [helix-editor](https://helix-editor.com/) - A minimal terminal text editor with a focus on speed and simplicity.
 - [lazyvim](https://www.lazyvim.org/) - A simple and efficient Vim plugin manager
+- [lazyvim](https://www.lazyvim.org/) - Simplified Vim configuration for beginners
 - [styfle/dub](https://github.com/styfle/dub) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
 ## UI
 
