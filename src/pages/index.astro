@@ -7,12 +7,16 @@ interface IFrontmatter {
   by: string;
   title: string;
   tag: string[];
+  from: string;
 }
 
-const content = (await Astro.glob("./things/*.md")).map((thing) => ({
-  ...(thing.frontmatter as IFrontmatter),
-  content: thing.rawContent(),
-}));
+const content = (await Astro.glob<IFrontmatter>("./things/*.md")).map(
+  (thing) => ({
+    thing,
+    ...thing.frontmatter,
+    content: thing.rawContent(),
+  })
+);
 
 const parsedContent = await Promise.all(
   content.map((c) =>
@@ -29,11 +33,17 @@ $content.set(parsedContent);
   </div>
   <div class="grid grid-cols-2 mx-auto max-w-[80vw] w-full my-12 gap-4">
     {
-      parsedContent.map(({ content, tag, title }) => (
+      parsedContent.map(({ content, tag, title, by, from }) => (
         <div class="bg-gray-800 rounded-lg border-white border flex flex-col border-opacity-10 p-4">
-          <a href={content.url} class="font-bold text-lg">
-            {title}
-          </a>
+          <div class="flex justify-between">
+            <a href={content.url} class="font-bold text-lg">
+              {title}
+            </a>
+            <div class="text-xs flex items-end flex-col opacity-25">
+              <div>@{by}</div>
+              <div>from {from}</div>
+            </div>
+          </div>
           <div class="flex gap-2">
             {tag.map((t) => (
               <a
@@ -52,7 +62,7 @@ $content.set(parsedContent);
               class="w-full aspect-video object-cover rounded-lg my-4 relative flex-1"
             />
           </a>
-          <p>
+          <p class="line-clamp-4 h-[96px]">
             {content.description != ""
               ? content.description
               : `there are no description for ${title} to find out more click on the title`}
