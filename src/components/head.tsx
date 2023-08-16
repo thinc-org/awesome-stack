@@ -104,8 +104,8 @@ const SearchBar = ({
             children={
               <SearchResults
                 title={item.title}
-                description={item.content.description}
-                match={matches}
+                description={item.desc}
+                match={matches as Fuse.FuseResultMatch[]}
               />
             }
           />

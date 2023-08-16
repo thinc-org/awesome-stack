@@ -6,10 +6,10 @@ export const $searchResults = atom<string[]>([]);
 
 export type Content = {
   content: {
-    description: string;
     image: string;
     url: string;
   };
+  desc: string;
   by: string;
   title: string;
   tag: string[];
