@@ -12,10 +12,11 @@
 9. [Git](#git)
 10. [Graphql](#graphql)
 11. [Ide](#ide)
-12. [Service](#service)
-13. [Terminal](#terminal)
-14. [UI](#ui)
-15. [Web](#web)
+12. [Language](#language)
+13. [Service](#service)
+14. [Terminal](#terminal)
+15. [UI](#ui)
+16. [Web](#web)
 ## Animation
 
 - [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
@@ -29,6 +30,7 @@
 
 - [CU Get Reg](https://github.com/thinc-org/cugetreg) - A platform for planning timetables and finding course information at Chulalongkorn University.
 - [discord.js](https://discord.js.org/) - A powerful Node.js module that allows you to interact with the Discord API
+- [odin-lang](https://odin-lang.org/) - A fast, concise, statically-typed systems programming language with a focus on expressiveness and ease of use
 - [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
 - [styfle/dub](https://github.com/styfle/dub) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
 - [supabase/supabase-local-dev](https://supabase.com/blog/supabase-local-dev) - Run Supabase locally for development and testing
@@ -64,6 +66,9 @@
 ## Ide
 
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
+## Language
+
+- [odin-lang](https://odin-lang.org/) - A fast, concise, statically-typed systems programming language with a focus on expressiveness and ease of use
 ## Service
 
 - [clerk](https://clerk.com/) - Clerk is an authentication and user management service.
