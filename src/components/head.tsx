@@ -1,7 +1,23 @@
-import { useEffect, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import CommandPalette, { filterItems, getItemIndex } from "react-cmdk";
 import { useStore } from "@nanostores/react";
 import type { Content } from "../stores/search";
+import Fuse from "fuse.js";
+
+const SearchResults = ({
+  title,
+  description,
+}: {
+  title: string;
+  description: string;
+}) => {
+  return (
+    <div className="flex flex-col">
+      <div className="text-lg font-bold">{title}</div>
+      <div className="text-sm">{description}</div>
+    </div>
+  );
+};
 
 const SearchBar = ({
   isOpen,
@@ -14,6 +30,19 @@ const SearchBar = ({
 }) => {
   const [page, setPage] = useState<"root" | "projects">("root");
   const [search, setSearch] = useState("");
+
+  const fuse = useMemo(
+    () =>
+      new Fuse(content, {
+        keys: ["title", "tag", "content.description"],
+        threshold: 0.3,
+        includeMatches: true,
+      }),
+    [content]
+  );
+
+  const searchResult = fuse.search(search);
+
   return (
     <CommandPalette
       onChangeSearch={setSearch}
@@ -22,18 +51,25 @@ const SearchBar = ({
       isOpen={isOpen}
       page={page}
     >
-      {/* <CommandPalette.List>
-        {content.map((content, i) => (
+      <CommandPalette.List>
+        {searchResult.map(({ item }, i) => (
           <CommandPalette.ListItem
-            key={content.title}
+            key={item.title}
             index={i}
-            title={content.title}
-            children={content.title}
-            keywords={content.tag}
-            onSelect={console.log}
+            title={item.title}
+            onClick={() => {
+              window.open(item.content.url, "_blank");
+            }}
+            showType={false}
+            children={
+              <SearchResults
+                title={item.title}
+                description={item.content.description}
+              />
+            }
           />
         ))}
-      </CommandPalette.List> */}
+      </CommandPalette.List>
     </CommandPalette>
   );
 };
@@ -66,7 +102,7 @@ export const Head = ({ content }: { content: Content }) => {
           <p className="inline leading-none">K</p>
         </div>
       </div>
-      {/* <SearchBar isOpen={isOpen} content={content} setOpen={setIsOpen} /> */}
+      <SearchBar isOpen={isOpen} content={content} setOpen={setIsOpen} />
     </div>
   );
 };

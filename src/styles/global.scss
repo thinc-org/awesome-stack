@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Albert+Sans&family=Outfit&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Albert+Sans&display=swap");
 
 .bg-grid {
   background-size: 20px 20px;
@@ -28,8 +28,23 @@
 html {
   @apply bg-black text-white;
   font-family: "Albert Sans", sans-serif;
-  font-family: "Outfit", sans-serif;
-  font-family: "Space Mono", monospace;
+}
+
+.command-palette .antialiased {
+  font-family: "Albert Sans", sans-serif !important;
+  [data-headlessui-state] {
+    @apply border border-white border-opacity-10 bg-gray-700;
+    input {
+      @apply font-medium;
+    }
+    svg {
+      @apply text-white;
+    }
+  }
+
+  .flex-1.overflow-y-auto.focus\:outline-none.p-2.space-y-4 {
+    @apply border-t border-white border-opacity-10;
+  }
 }
 
 img:before {

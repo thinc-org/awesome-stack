@@ -8,7 +8,11 @@ export const getLinkMetadata = async (url: string) => {
     /<meta\s+name="description"\s+content="([^"]+)"/i
   );
   const description = descriptionMatch ? descriptionMatch[1] : "";
-  const image = match ? match[1] : "";
+  let image = match ? match[1] : "";
+  if (image.startsWith("/")) {
+    const urlObj = new URL(url);
+    image = urlObj.origin + image;
+  }
   return { description, image, url };
 };
 
