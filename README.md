@@ -77,6 +77,7 @@
 ## Ide
 
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
+- [lazyvim](https://www.lazyvim.org/) - Simple yet powerful set of Vim shortcuts to help you boost your productivity
 ## Language
 
 - [odin-lang](https://odin-lang.org/) - A fast, concise, statically-typed systems programming language with a focus on expressiveness and ease of use

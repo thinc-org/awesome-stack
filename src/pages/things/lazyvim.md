@@ -4,13 +4,11 @@ title: lazyvim
 
 tag: 
 
-  - terminal
-  - vim
-  - plugin 
+  - ide 
 
-desc: A simple and efficient Vim plugin manager 
+desc: Simple yet powerful set of Vim shortcuts to help you boost your productivity 
 
-by: onfirebyte 
+by: peam1146 
 
 from: awesome-dev-bot 
 
