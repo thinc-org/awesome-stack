@@ -5,14 +5,14 @@ title: ArthurFDLR/whisper-youtube
 tag: 
 
   - backend
-  - service
-  - youtube 
+  - devops
+  - service 
 
-desc: Python YouTube API wrapper for video and playlist metadata. 
+desc: Whisper is a YouTube chat bot used to moderate and customize live chats during streams. 
 
 by: peam1146 
 
-from: awesome-dev-bot 
+from: Thinc. 
 
 ---
 
