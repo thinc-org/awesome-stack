@@ -13,7 +13,7 @@
 10. [Language](#language)
 11. [Python](#python)
 12. [Security](#security)
-13. [State management](#state management)
+13. [State-management](#state-management)
 14. [Terminal](#terminal)
 15. [Typescript](#typescript)
 16. [Youtube](#youtube)
@@ -76,7 +76,7 @@
 ## Security
 
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
-## State management
+## State-management
 
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 ## Terminal

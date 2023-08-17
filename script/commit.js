@@ -2,7 +2,8 @@ import fs from "fs";
 
 function buildMDString(data) {
     const { package_name, tags, desc, by_user, from_server, package_url } = data;
-    const tagsString = tags.map((tag) => `  - ${tag}`).join("\n");
+
+    const tagsString = tags?.map((tag) => `  - ${tag}`).join("\n");
 
     return `---\n
 title: "${package_name}" \n
@@ -33,6 +34,10 @@ const raw = process.env.payload_data;
 
 const data = raw ? JSON.parse(raw) : null;
 
+if (data) {
+    data.tags = data.tags.map((tag) => tag.toLowerCase().replace(" ", "-"));
+}
+
 console.log("data", data);
 
 const stored = fs.readFileSync("./data.json", "utf-8");
@@ -51,7 +56,7 @@ for (const item of storedData) {
 
 storedData = Array.from(unique.values());
 
-fs.writeFileSync("./data.json", JSON.stringify(storedData));
+fs.writeFileSync("./data.json", JSON.stringify(storedData, null, 4));
 
 // remove all md files
 const files = fs.readdirSync("./src/pages/things");
@@ -90,7 +95,7 @@ mdString += `## Contents\n\n`;
 
 tagGroup.forEach(([tag], index) => {
     const capitalizedTag = tag[0].toUpperCase() + tag.slice(1);
-    mdString += `${index + 1}. [${capitalizedTag}](#${tag.toLowerCase()})\n`;
+    mdString += `${index + 1}. [${capitalizedTag}](#${tag})\n`;
 });
 
 // add packages list

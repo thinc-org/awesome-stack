@@ -6,7 +6,7 @@ tag:
 
   - frontend
   - framework
-  - state management 
+  - state-management 
 
 desc: "Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS" 
 
