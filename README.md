@@ -15,12 +15,10 @@
 12. [Graphql](#graphql)
 13. [Ide](#ide)
 14. [Language](#language)
-15. [Plugin](#plugin)
-16. [Service](#service)
-17. [Terminal](#terminal)
-18. [UI](#ui)
-19. [Vim](#vim)
-20. [Web](#web)
+15. [Service](#service)
+16. [Terminal](#terminal)
+17. [UI](#ui)
+18. [Web](#web)
 ## Animation
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
@@ -85,15 +83,11 @@
 ## Ide
 
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
-- [lazyvim](https://www.lazyvim.org/) - Simple yet powerful set of Vim shortcuts to help you boost your productivity
 - [lazyvim](https://www.lazyvim.org/) - Simplified Vim configuration for beginners
 ## Language
 
 - [odin-lang](https://odin-lang.org/) - A fast, concise, statically-typed systems programming language with a focus on expressiveness and ease of use
 - [reasonml.github.io](https://reasonml.github.io/docs/en/what-and-why) - ReasonML is an expressive and safe programming language that combines the simplicity and efficiency of JavaScript with the strong types and safety guarantees of OCaml.
-## Plugin
-
-- [lazyvim](https://www.lazyvim.org/) - A simple and efficient Vim plugin manager
 ## Service
 
 - [aircode](https://www.producthunt.com/posts/aircode) - Real-time collaborative coding, with video chat and screen sharing
@@ -104,15 +98,11 @@
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
 - [helix-editor](https://helix-editor.com/) - A minimal terminal text editor with a focus on speed and simplicity.
-- [lazyvim](https://www.lazyvim.org/) - A simple and efficient Vim plugin manager
 - [lazyvim](https://www.lazyvim.org/) - Simplified Vim configuration for beginners
 - [styfle/dub](https://github.com/styfle/dub) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
 ## UI
 
 - [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
-## Vim
-
-- [lazyvim](https://www.lazyvim.org/) - A simple and efficient Vim plugin manager
 ## Web
 
 - [CU Get Reg](https://github.com/thinc-org/cugetreg) - A platform for planning timetables and finding course information at Chulalongkorn University.

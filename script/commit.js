@@ -37,14 +37,21 @@ console.log("data", data);
 
 const stored = fs.readFileSync("./data.json", "utf-8");
 
-const storedData = JSON.parse(stored);
+let storedData = JSON.parse(stored);
 
 // add new package only if it's not exist
 if (data?.package_url) {
     storedData.push(data);
-
-    fs.writeFileSync("./data.json", JSON.stringify(storedData));
 }
+
+const unique = new Map();
+for (const item of storedData) {
+    unique.set(item.package_url, item);
+}
+
+storedData = Array.from(unique.values());
+
+fs.writeFileSync("./data.json", JSON.stringify(storedData));
 
 storedData.sort(cmp((v) => v.package_name.toLowerCase()));
 
