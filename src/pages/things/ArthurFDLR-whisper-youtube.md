@@ -4,11 +4,11 @@ title: ArthurFDLR/whisper-youtube
 
 tag: 
 
-  - backend
-  - devops
-  - service 
+  - frontend
+  - framework
+  - youtube 
 
-desc: Whisper is a YouTube chat bot used to moderate and customize live chats during streams. 
+desc: Whisper is a video and audio comments and annotations framework for YouTube videos. 
 
 by: peam1146 
 

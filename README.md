@@ -18,6 +18,7 @@
 15. [Service](#service)
 16. [Terminal](#terminal)
 17. [UI](#ui)
+18. [Youtube](#youtube)
 ## Animation
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
@@ -30,7 +31,6 @@
 - [clerk](https://clerk.com/) - Clerk is an authentication and user management service.
 ## Backend
 
-- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - Whisper is a YouTube chat bot used to moderate and customize live chats during streams.
 - [discord.js](https://discord.js.org/) - A powerful Node.js module that allows you to interact with the Discord API
 - [Drupal](https://www.drupal.org/) - Drupal is a free and open source content management system written in PHP
 - [odin-lang](https://odin-lang.org/) - A fast, concise, statically-typed systems programming language with a focus on expressiveness and ease of use
@@ -47,7 +47,6 @@
 ## Devops
 
 - [aircode](https://www.producthunt.com/posts/aircode) - Real-time collaborative coding, with video chat and screen sharing
-- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - Whisper is a YouTube chat bot used to moderate and customize live chats during streams.
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [gitea](https://about.gitea.com/) - Lightweight DevOps Platform
 - [supabase/supabase-local-dev](https://supabase.com/blog/supabase-local-dev) - Run Supabase locally for development and testing
@@ -57,6 +56,7 @@
 ## Framework
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
+- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - Whisper is a video and audio comments and annotations framework for YouTube videos.
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
 - [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
@@ -66,6 +66,7 @@
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
 - [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
 - [aircode](https://www.producthunt.com/posts/aircode) - Real-time collaborative coding, with video chat and screen sharing
+- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - Whisper is a video and audio comments and annotations framework for YouTube videos.
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
 - [Eventpop CSS Meetup](https://www.eventpop.me/e/15612) - Bringing CSS enthusiasts together to discuss new trends and techniques.
@@ -90,7 +91,6 @@
 ## Service
 
 - [aircode](https://www.producthunt.com/posts/aircode) - Real-time collaborative coding, with video chat and screen sharing
-- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - Whisper is a YouTube chat bot used to moderate and customize live chats during streams.
 - [clerk](https://clerk.com/) - Clerk is an authentication and user management service.
 - [discord.js](https://discord.js.org/) - A powerful Node.js module that allows you to interact with the Discord API
 - [thinc-org/cugetreg](https://github.com/thinc-org/cugetreg) - Simple package registry for ML model dependencies
@@ -104,3 +104,6 @@
 ## UI
 
 - [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
+## Youtube
+
+- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - Whisper is a video and audio comments and annotations framework for YouTube videos.
