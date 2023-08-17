@@ -34,11 +34,11 @@ const raw = process.env.payload_data;
 
 const data = raw ? JSON.parse(raw) : null;
 
-if (data) {
-    data.tags = data.tags.map((tag) => tag.toLowerCase().replace(" ", "-"));
-}
-
 console.log("data", data);
+
+if (data) {
+    data.tags = data.tags?.map((tag) => tag.toLowerCase().replace(" ", "-"));
+}
 
 const stored = fs.readFileSync("./data.json", "utf-8");
 
