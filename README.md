@@ -40,6 +40,7 @@
 ## Devops
 
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
+- [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - A flexible and fast Zsh plugin manager with clean fpath, reports, completion management, turbo mode and dozens of other zadd-on features
 ## Express
 
@@ -47,6 +48,7 @@
 ## Framework
 
 - [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
+- [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
@@ -54,6 +56,7 @@
 ## Frontend
 
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - CloudBeaver is a web-based cloud database manager written in TypeScript and React.
+- [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Fuse.js is a lightweight fuzzy-search, in JavaScript, with zero dependencies.
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
