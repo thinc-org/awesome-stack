@@ -8,24 +8,29 @@ in Thinc discord server
 This repo is also hosting astro code and all automated stuff. You can see the discord bot and server stuff [here](https://github.com/thinc-org/awesome-stack-discord-bot).
 ## Contents
 
-1. [Backend](#backend)
-2. [Compiler](#compiler)
-3. [Database](#database)
-4. [Deployment](#deployment)
-5. [Devops](#devops)
-6. [Express](#express)
-7. [Framework](#framework)
-8. [Frontend](#frontend)
-9. [Ide](#ide)
-10. [Koa](#koa)
-11. [Language](#language)
-12. [Python](#python)
-13. [Security](#security)
-14. [State-management](#state-management)
-15. [Terminal](#terminal)
-16. [Typescript](#typescript)
-17. [Youtube](#youtube)
-18. [Zsh](#zsh)
+1. [Animation](#animation)
+2. [Backend](#backend)
+3. [Compiler](#compiler)
+4. [Database](#database)
+5. [Deployment](#deployment)
+6. [Devops](#devops)
+7. [Express](#express)
+8. [Framework](#framework)
+9. [Frontend](#frontend)
+10. [Ide](#ide)
+11. [Koa](#koa)
+12. [Language](#language)
+13. [Python](#python)
+14. [React](#react)
+15. [Security](#security)
+16. [State-management](#state-management)
+17. [Terminal](#terminal)
+18. [Typescript](#typescript)
+19. [Youtube](#youtube)
+20. [Zsh](#zsh)
+## Animation
+
+- [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
 ## Backend
 
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
@@ -67,6 +72,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - CloudBeaver is a web-based cloud database manager written in TypeScript and React.
 - [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
+- [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Fuse.js is a lightweight fuzzy-search, in JavaScript, with zero dependencies.
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
@@ -83,6 +89,9 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Python
 
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
+## React
+
+- [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
 ## Security
 
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance

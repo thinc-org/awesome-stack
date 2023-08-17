@@ -175,5 +175,17 @@
             "compiler",
             "database"
         ]
+    },
+    {
+        "by_user": "onfirebyte",
+        "desc": "Production-ready motion library for React. Declarative animations with a simple syntax.",
+        "from_server": "Thinc.",
+        "package_name": "Framer Motion",
+        "package_url": "https://www.framer.com/motion/",
+        "tags": [
+            "frontend",
+            "animation",
+            "react"
+        ]
     }
 ]
