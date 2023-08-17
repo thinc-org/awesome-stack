@@ -42,6 +42,7 @@
 - [styfle/dub](https://github.com/styfle/dub) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
 - [supabase/supabase-local-dev](https://supabase.com/blog/supabase-local-dev) - Run Supabase locally for development and testing
 - [thinc-org/cugetreg](https://github.com/thinc-org/cugetreg) - Simple package registry for ML model dependencies
+- [warp.dev](https://www.warp.dev/) - Framework for building server-side Swift applications
 ## CMS
 
 - [Drupal](https://www.drupal.org/) - Drupal is a free and open source content management system written in PHP
@@ -66,6 +67,7 @@
 - [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
 - [sveltejs/kit](https://kit.svelte.dev/) - Svelte Kit is a framework for building web applications with Svelte
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
+- [warp.dev](https://www.warp.dev/) - Framework for building server-side Swift applications
 ## Frontend
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
