@@ -48,6 +48,7 @@
 - [Webpod](https://webpod.dev/) - Deploy websites and apps anywhere
 ## Devops
 
+- [aircode](https://www.producthunt.com/posts/aircode) - Real-time collaborative coding, with video chat and screen sharing
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [gitea](https://about.gitea.com/) - Lightweight DevOps Platform
 - [supabase/supabase-local-dev](https://supabase.com/blog/supabase-local-dev) - Run Supabase locally for development and testing
@@ -65,6 +66,7 @@
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
 - [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
+- [aircode](https://www.producthunt.com/posts/aircode) - Real-time collaborative coding, with video chat and screen sharing
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
 - [CU Get Reg](https://github.com/thinc-org/cugetreg) - A platform for planning timetables and finding course information at Chulalongkorn University.
@@ -92,6 +94,7 @@
 - [lazyvim](https://www.lazyvim.org/) - A simple and efficient Vim plugin manager
 ## Service
 
+- [aircode](https://www.producthunt.com/posts/aircode) - Real-time collaborative coding, with video chat and screen sharing
 - [clerk](https://clerk.com/) - Clerk is an authentication and user management service.
 - [discord.js](https://discord.js.org/) - A powerful Node.js module that allows you to interact with the Discord API
 ## Terminal
