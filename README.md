@@ -8,9 +8,10 @@
 5. [Frontend](#frontend)
 6. [Python](#python)
 7. [Security](#security)
-8. [Terminal](#terminal)
-9. [Youtube](#youtube)
-10. [Zsh](#zsh)
+8. [State management](#state management)
+9. [Terminal](#terminal)
+10. [Youtube](#youtube)
+11. [Zsh](#zsh)
 ## Backend
 
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
@@ -26,11 +27,13 @@
 ## Framework
 
 - [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
+- [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 - [warp.dev](https://www.warp.dev/) - Framework for building server-side Swift applications
 ## Frontend
 
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Fuse.js is a lightweight fuzzy-search, in JavaScript, with zero dependencies.
+- [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 ## Python
 
@@ -38,6 +41,9 @@
 ## Security
 
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
+## State management
+
+- [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 ## Terminal
 
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
