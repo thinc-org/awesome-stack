@@ -1,6 +1,6 @@
 ---
 
-title: charmbracelet/bubbletea 
+title: "charmbracelet/bubbletea" 
 
 tag: 
 
@@ -8,11 +8,11 @@ tag:
   - terminal
   - frontend 
 
-desc: Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture. 
+desc: "Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture." 
 
-by: onfirebyte 
+by: "onfirebyte" 
 
-from: awesome-dev-bot 
+from: "awesome-dev-bot" 
 
 ---
 

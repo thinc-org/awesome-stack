@@ -5,12 +5,12 @@ function buildMDString(data) {
     const tagsString = tags.map((tag) => `  - ${tag}`).join("\n");
 
     return `---\n
-title: ${package_name} \n
+title: "${package_name}" \n
 tag: \n
 ${tagsString} \n
-desc: ${desc ?? ""} \n
-by: ${by_user} \n
-from: ${from_server} \n
+desc: "${desc ?? ""}" \n
+by: "${by_user}" \n
+from: "${from_server}" \n
 ---\n
 \n
 ${package_url} \n
@@ -52,6 +52,12 @@ for (const item of storedData) {
 storedData = Array.from(unique.values());
 
 fs.writeFileSync("./data.json", JSON.stringify(storedData));
+
+// remove all md files
+const files = fs.readdirSync("./src/pages/things");
+for (const file of files) {
+    fs.unlinkSync(`./src/pages/things/${file}`);
+}
 
 storedData.sort(cmp((v) => v.package_name.toLowerCase()));
 

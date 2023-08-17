@@ -1,6 +1,6 @@
 ---
 
-title: tauri 
+title: "tauri" 
 
 tag: 
 
@@ -8,11 +8,11 @@ tag:
   - frontend
   - security 
 
-desc: Desktop app framework focused on security and performance 
+desc: "Desktop app framework focused on security and performance" 
 
-by: onfirebyte 
+by: "onfirebyte" 
 
-from: Thinc. 
+from: "Thinc." 
 
 ---
 

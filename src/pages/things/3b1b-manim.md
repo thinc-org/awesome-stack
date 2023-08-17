@@ -1,6 +1,6 @@
 ---
 
-title: 3b1b/manim 
+title: "3b1b/manim" 
 
 tag: 
 
@@ -8,11 +8,11 @@ tag:
   - frontend
   - animation 
 
-desc: Manim is mathematical animation library 
+desc: "Manim is mathematical animation library" 
 
-by: onfirebyte 
+by: "onfirebyte" 
 
-from: awesome-dev-bot 
+from: "awesome-dev-bot" 
 
 ---
 

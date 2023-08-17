@@ -1,6 +1,6 @@
 ---
 
-title: effect-website 
+title: "effect-website" 
 
 tag: 
 
@@ -8,11 +8,11 @@ tag:
   - animation
   - graphics 
 
-desc: A website for showcasing visual effects and animations. 
+desc: "A website for showcasing visual effects and animations." 
 
-by: onfirebyte 
+by: "onfirebyte" 
 
-from: awesome-dev-bot 
+from: "awesome-dev-bot" 
 
 ---
 

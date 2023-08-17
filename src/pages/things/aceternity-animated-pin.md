@@ -1,6 +1,6 @@
 ---
 
-title: aceternity/animated-pin 
+title: "aceternity/animated-pin" 
 
 tag: 
 
@@ -8,11 +8,11 @@ tag:
   - animation
   - UI 
 
-desc: Awesome TailwindCSS and Framer Motion Component 
+desc: "Awesome TailwindCSS and Framer Motion Component" 
 
-by: p16w 
+by: "p16w" 
 
-from: awesome-dev-bot 
+from: "awesome-dev-bot" 
 
 ---
 

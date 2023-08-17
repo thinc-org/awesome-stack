@@ -1,17 +1,17 @@
 ---
 
-title: sveltejs/kit 
+title: "sveltejs/kit" 
 
 tag: 
 
   - frontend
   - framework 
 
-desc: Svelte Kit is a framework for building web applications with Svelte 
+desc: "Svelte Kit is a framework for building web applications with Svelte" 
 
-by: onfirebyte 
+by: "onfirebyte" 
 
-from: awesome-dev-bot 
+from: "awesome-dev-bot" 
 
 ---
 

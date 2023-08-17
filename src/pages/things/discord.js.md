@@ -1,6 +1,6 @@
 ---
 
-title: discord.js 
+title: "discord.js" 
 
 tag: 
 
@@ -8,11 +8,11 @@ tag:
   - service
   - api 
 
-desc: A powerful Node.js module that allows you to interact with the Discord API 
+desc: "A powerful Node.js module that allows you to interact with the Discord API" 
 
-by: peam1146 
+by: "peam1146" 
 
-from: awesome-dev-bot 
+from: "awesome-dev-bot" 
 
 ---
 

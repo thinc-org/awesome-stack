@@ -1,17 +1,17 @@
 ---
 
-title: clerk 
+title: "clerk" 
 
 tag: 
 
   - auth
   - service 
 
-desc: Clerk is an authentication and user management service. 
+desc: "Clerk is an authentication and user management service." 
 
-by: p16w 
+by: "p16w" 
 
-from: awesome-dev-bot 
+from: "awesome-dev-bot" 
 
 ---
 

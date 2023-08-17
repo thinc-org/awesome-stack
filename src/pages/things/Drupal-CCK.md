@@ -1,17 +1,17 @@
 ---
 
-title: Drupal/CCK 
+title: "Drupal/CCK" 
 
 tag: 
 
   - backend
   - framework 
 
-desc: Content Construction Kit: Create custom content types, fields, and add-ons for Drupal 
+desc: "Content Construction Kit: Create custom content types, fields, and add-ons for Drupal" 
 
-by: bankbkbkk 
+by: "bankbkbkk" 
 
-from: Thinc. 
+from: "Thinc." 
 
 ---
 

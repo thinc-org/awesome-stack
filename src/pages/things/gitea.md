@@ -1,16 +1,16 @@
 ---
 
-title: gitea 
+title: "gitea" 
 
 tag: 
 
   - devops 
 
-desc: Lightweight DevOps Platform 
+desc: "Lightweight DevOps Platform" 
 
-by: peam1146 
+by: "peam1146" 
 
-from: awesome-dev-bot 
+from: "awesome-dev-bot" 
 
 ---
 

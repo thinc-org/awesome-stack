@@ -1,17 +1,17 @@
 ---
 
-title: odin-lang 
+title: "odin-lang" 
 
 tag: 
 
   - backend
   - language 
 
-desc: A fast, concise, statically-typed systems programming language with a focus on expressiveness and ease of use 
+desc: "A fast, concise, statically-typed systems programming language with a focus on expressiveness and ease of use" 
 
-by: onfirebyte 
+by: "onfirebyte" 
 
-from: awesome-dev-bot 
+from: "awesome-dev-bot" 
 
 ---
 

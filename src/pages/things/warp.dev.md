@@ -1,17 +1,17 @@
 ---
 
-title: warp.dev 
+title: "warp.dev" 
 
 tag: 
 
   - backend
   - framework 
 
-desc: Framework for building server-side Swift applications 
+desc: "Framework for building server-side Swift applications" 
 
-by: onfirebyte 
+by: "onfirebyte" 
 
-from: Thinc. 
+from: "Thinc." 
 
 ---
 

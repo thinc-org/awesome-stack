@@ -1,6 +1,6 @@
 ---
 
-title: redwood 
+title: "redwood" 
 
 tag: 
 
@@ -9,11 +9,11 @@ tag:
   - graphql
   - framework 
 
-desc: Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API. 
+desc: "Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API." 
 
-by: peam1146 
+by: "peam1146" 
 
-from: awesome-dev-bot 
+from: "awesome-dev-bot" 
 
 ---
 

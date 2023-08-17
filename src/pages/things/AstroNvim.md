@@ -1,6 +1,6 @@
 ---
 
-title: AstroNvim 
+title: "AstroNvim" 
 
 tag: 
 
@@ -11,11 +11,11 @@ tag:
   - git
   - ide 
 
-desc: An aesthetic and feature-rich neovim config with a great set of plugins. 
+desc: "An aesthetic and feature-rich neovim config with a great set of plugins." 
 
-by: peam1146 
+by: "peam1146" 
 
-from: awesome-dev-bot 
+from: "awesome-dev-bot" 
 
 ---
 

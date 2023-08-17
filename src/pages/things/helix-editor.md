@@ -1,17 +1,17 @@
 ---
 
-title: helix-editor 
+title: "helix-editor" 
 
 tag: 
 
   - terminal
   - editor 
 
-desc: A minimal terminal text editor with a focus on speed and simplicity. 
+desc: "A minimal terminal text editor with a focus on speed and simplicity." 
 
-by: onfirebyte 
+by: "onfirebyte" 
 
-from: awesome-dev-bot 
+from: "awesome-dev-bot" 
 
 ---
 

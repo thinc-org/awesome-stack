@@ -1,6 +1,6 @@
 ---
 
-title: styfle/dub 
+title: "styfle/dub" 
 
 tag: 
 
@@ -8,11 +8,11 @@ tag:
   - backend
   - terminal 
 
-desc: Dub is an open-source link management tool for modern marketing teams to create, share, and track short links. 
+desc: "Dub is an open-source link management tool for modern marketing teams to create, share, and track short links." 
 
-by: p16w 
+by: "p16w" 
 
-from: awesome-dev-bot 
+from: "awesome-dev-bot" 
 
 ---
 

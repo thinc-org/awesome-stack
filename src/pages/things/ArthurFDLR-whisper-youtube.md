@@ -1,6 +1,6 @@
 ---
 
-title: ArthurFDLR/whisper-youtube 
+title: "ArthurFDLR/whisper-youtube" 
 
 tag: 
 
@@ -8,11 +8,11 @@ tag:
   - python
   - youtube 
 
-desc: A Python library for extracting audio features from YouTube videos. 
+desc: "A Python library for extracting audio features from YouTube videos." 
 
-by: peam1146 
+by: "peam1146" 
 
-from: Thinc. 
+from: "Thinc." 
 
 ---
 
