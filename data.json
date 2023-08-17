@@ -187,5 +187,17 @@
             "animation",
             "react"
         ]
+    },
+    {
+        "by_user": "peam1146",
+        "desc": "Curated list of awesome WhatTheFar",
+        "from_server": "Thinc.",
+        "package_name": "Awesome WhatTheFar",
+        "package_url": "https://github.com/WhatTheFar/awesome-whatthefar",
+        "tags": [
+            "frontend",
+            "backend",
+            "devops"
+        ]
     }
 ]

@@ -34,6 +34,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Backend
 
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
+- [Awesome WhatTheFar](https://github.com/WhatTheFar/awesome-whatthefar) - Curated list of awesome WhatTheFar
 - [awesome-stack](https://github.com/thinc-org/awesome-stack) - Curated list of awesome technologies for building a stack. Covers backend, frontend, database, devops, and more.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - CloudBeaver is a web-based cloud database manager written in TypeScript and React.
 - [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
@@ -53,6 +54,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
 ## Devops
 
+- [Awesome WhatTheFar](https://github.com/WhatTheFar/awesome-whatthefar) - Curated list of awesome WhatTheFar
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
 - [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with integrated AI for faster software development.
@@ -69,6 +71,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
 ## Frontend
 
+- [Awesome WhatTheFar](https://github.com/WhatTheFar/awesome-whatthefar) - Curated list of awesome WhatTheFar
 - [awesome-stack](https://github.com/thinc-org/awesome-stack) - Curated list of awesome technologies for building a stack. Covers backend, frontend, database, devops, and more.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - CloudBeaver is a web-based cloud database manager written in TypeScript and React.
 - [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
