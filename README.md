@@ -21,6 +21,7 @@
 ## Backend
 
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
+- [Awesome Stack](https://github.com/thinc-org/awesome-stack) - Backend, Compiler, Database, Deployment, Devops, Frontend, Language, Security, State Management and more
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - CloudBeaver is a web-based cloud database manager written in TypeScript and React.
 - [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
 - [kysely](https://github.com/kysely-org/kysely) - Type-safe and autocompletion-friendly typescript SQL query builder for node.js and other javascript environments
@@ -30,9 +31,11 @@
 - [warp.dev](https://www.warp.dev/) - Framework for building server-side Swift applications
 ## Compiler
 
+- [Awesome Stack](https://github.com/thinc-org/awesome-stack) - Backend, Compiler, Database, Deployment, Devops, Frontend, Language, Security, State Management and more
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
 ## Database
 
+- [Awesome Stack](https://github.com/thinc-org/awesome-stack) - Backend, Compiler, Database, Deployment, Devops, Frontend, Language, Security, State Management and more
 - [kysely](https://github.com/kysely-org/kysely) - Type-safe and autocompletion-friendly typescript SQL query builder for node.js and other javascript environments
 ## Deployment
 
