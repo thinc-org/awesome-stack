@@ -18,6 +18,7 @@
 15. [Service](#service)
 16. [Terminal](#terminal)
 17. [UI](#ui)
+18. [Youtube](#youtube)
 ## Animation
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
@@ -30,6 +31,7 @@
 - [clerk](https://clerk.com/) - Clerk is an authentication and user management service.
 ## Backend
 
+- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - Python YouTube API wrapper for video and playlist metadata.
 - [discord.js](https://discord.js.org/) - A powerful Node.js module that allows you to interact with the Discord API
 - [Drupal](https://www.drupal.org/) - Drupal is a free and open source content management system written in PHP
 - [odin-lang](https://odin-lang.org/) - A fast, concise, statically-typed systems programming language with a focus on expressiveness and ease of use
@@ -88,6 +90,7 @@
 ## Service
 
 - [aircode](https://www.producthunt.com/posts/aircode) - Real-time collaborative coding, with video chat and screen sharing
+- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - Python YouTube API wrapper for video and playlist metadata.
 - [clerk](https://clerk.com/) - Clerk is an authentication and user management service.
 - [discord.js](https://discord.js.org/) - A powerful Node.js module that allows you to interact with the Discord API
 - [thinc-org/cugetreg](https://github.com/thinc-org/cugetreg) - Simple package registry for ML model dependencies
@@ -101,3 +104,6 @@
 ## UI
 
 - [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
+## Youtube
+
+- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - Python YouTube API wrapper for video and playlist metadata.
