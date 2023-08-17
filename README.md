@@ -9,19 +9,21 @@
 6. [Framework](#framework)
 7. [Frontend](#frontend)
 8. [Koa](#koa)
-9. [Python](#python)
-10. [Security](#security)
-11. [State management](#state management)
-12. [Terminal](#terminal)
-13. [Typescript](#typescript)
-14. [Youtube](#youtube)
-15. [Zsh](#zsh)
+9. [Language](#language)
+10. [Python](#python)
+11. [Security](#security)
+12. [State management](#state management)
+13. [Terminal](#terminal)
+14. [Typescript](#typescript)
+15. [Youtube](#youtube)
+16. [Zsh](#zsh)
 ## Backend
 
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - CloudBeaver is a web-based cloud database manager written in TypeScript and React.
 - [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
 - [kysely](https://github.com/kysely-org/kysely) - Type-safe and autocompletion-friendly typescript SQL query builder for node.js and other javascript environments
+- [Odin Programming Language](https://odin-lang.org/) - A high-performance, data-oriented programming language built as an alternative to C.
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
 - [warp.dev](https://www.warp.dev/) - Framework for building server-side Swift applications
 ## Database
@@ -53,6 +55,9 @@
 ## Koa
 
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
+## Language
+
+- [Odin Programming Language](https://odin-lang.org/) - A high-performance, data-oriented programming language built as an alternative to C.
 ## Python
 
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
