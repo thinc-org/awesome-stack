@@ -16,11 +16,12 @@
 13. [Ide](#ide)
 14. [Language](#language)
 15. [Python](#python)
-16. [Service](#service)
-17. [Terminal](#terminal)
-18. [UI](#ui)
-19. [Youtube](#youtube)
-20. [Zsh](#zsh)
+16. [Security](#security)
+17. [Service](#service)
+18. [Terminal](#terminal)
+19. [UI](#ui)
+20. [Youtube](#youtube)
+21. [Zsh](#zsh)
 ## Animation
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
@@ -64,6 +65,7 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
 - [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
 - [sveltejs/kit](https://kit.svelte.dev/) - Svelte Kit is a framework for building web applications with Svelte
+- [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 ## Frontend
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
@@ -76,6 +78,7 @@
 - [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
 - [styfle/dub](https://github.com/styfle/dub) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
 - [sveltejs/kit](https://kit.svelte.dev/) - Svelte Kit is a framework for building web applications with Svelte
+- [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 ## Git
 
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
@@ -93,6 +96,9 @@
 ## Python
 
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
+## Security
+
+- [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 ## Service
 
 - [aircode](https://www.producthunt.com/posts/aircode) - Real-time collaborative coding, with video chat and screen sharing
