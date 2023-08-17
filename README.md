@@ -49,11 +49,13 @@
 - [Drupal](https://www.drupal.org/) - Drupal is a free and open source content management system written in PHP
 ## Deployment
 
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
 - [Webpod](https://webpod.dev/) - Deploy websites and apps anywhere
 ## Devops
 
 - [aircode](https://www.producthunt.com/posts/aircode) - Real-time collaborative coding, with video chat and screen sharing
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
 - [Effect](https://www.effect.website/) - A powerful TypeScript library for creating complex, synchronous, and asynchronous programs with structured concurrency and safe resource management.
 - [gitea](https://about.gitea.com/) - Lightweight DevOps Platform
 - [supabase/supabase-local-dev](https://supabase.com/blog/supabase-local-dev) - Run Supabase locally for development and testing
@@ -115,6 +117,7 @@
 
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
 - [Effect](https://www.effect.website/) - A powerful TypeScript library for creating complex, synchronous, and asynchronous programs with structured concurrency and safe resource management.
 - [helix-editor](https://helix-editor.com/) - A minimal terminal text editor with a focus on speed and simplicity.
 - [lazyvim](https://www.lazyvim.org/) - Simplified Vim configuration for beginners
