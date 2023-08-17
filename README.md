@@ -20,6 +20,7 @@
 17. [Terminal](#terminal)
 18. [UI](#ui)
 19. [Youtube](#youtube)
+20. [Zsh](#zsh)
 ## Animation
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
@@ -52,6 +53,7 @@
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [gitea](https://about.gitea.com/) - Lightweight DevOps Platform
 - [supabase/supabase-local-dev](https://supabase.com/blog/supabase-local-dev) - Run Supabase locally for development and testing
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - A flexible and fast Zsh plugin manager with clean fpath, reports, completion management, turbo mode and dozens of other zadd-on features
 ## Editor
 
 - [helix-editor](https://helix-editor.com/) - A minimal terminal text editor with a focus on speed and simplicity.
@@ -104,9 +106,13 @@
 - [helix-editor](https://helix-editor.com/) - A minimal terminal text editor with a focus on speed and simplicity.
 - [lazyvim](https://www.lazyvim.org/) - Simplified Vim configuration for beginners
 - [styfle/dub](https://github.com/styfle/dub) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - A flexible and fast Zsh plugin manager with clean fpath, reports, completion management, turbo mode and dozens of other zadd-on features
 ## UI
 
 - [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
 ## Youtube
 
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
+## Zsh
+
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - A flexible and fast Zsh plugin manager with clean fpath, reports, completion management, turbo mode and dozens of other zadd-on features
