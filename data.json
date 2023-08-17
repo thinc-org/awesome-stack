@@ -166,13 +166,13 @@
     },
     {
         "by_user": "onfirebyte",
-        "desc": "Backend, Compiler, Database, Deployment, Devops, Frontend, Language, Security, State Management and more",
+        "desc": "Curated list of awesome technologies for building a stack. Covers backend, frontend, database, devops, and more.",
         "from_server": "Thinc.",
-        "package_name": "Awesome Stack",
+        "package_name": "awesome-stack",
         "package_url": "https://github.com/thinc-org/awesome-stack",
         "tags": [
             "backend",
-            "compiler",
+            "frontend",
             "database"
         ]
     },
