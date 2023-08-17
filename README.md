@@ -20,9 +20,8 @@
 17. [Service](#service)
 18. [Terminal](#terminal)
 19. [UI](#ui)
-20. [Website](#website)
-21. [Youtube](#youtube)
-22. [Zsh](#zsh)
+20. [Youtube](#youtube)
+21. [Zsh](#zsh)
 ## Animation
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
@@ -78,7 +77,7 @@
 - [aircode](https://www.producthunt.com/posts/aircode) - Real-time collaborative coding, with video chat and screen sharing
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
-- [effect-website](https://www.effect.website/) - A website for showcasing visual effects
+- [effect/website](https://www.effect.website/) - A website showcasing various graphical effects and animations using HTML, CSS, and JavaScript
 - [Eventpop CSS Meetup](https://www.eventpop.me/e/15612) - Bringing CSS enthusiasts together to discuss new trends and techniques.
 - [reasonml.github.io](https://reasonml.github.io/docs/en/what-and-why) - ReasonML is an expressive and safe programming language that combines the simplicity and efficiency of JavaScript with the strong types and safety guarantees of OCaml.
 - [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
@@ -122,9 +121,6 @@
 ## UI
 
 - [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
-## Website
-
-- [effect-website](https://www.effect.website/) - A website for showcasing visual effects
 ## Youtube
 
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.

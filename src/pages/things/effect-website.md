@@ -1,13 +1,12 @@
 ---
 
-title: effect-website 
+title: effect/website 
 
 tag: 
 
-  - frontend
-  - website 
+  - frontend 
 
-desc: A website for showcasing visual effects 
+desc: A website showcasing various graphical effects and animations using HTML, CSS, and JavaScript 
 
 by: onfirebyte 
 
