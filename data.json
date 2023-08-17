@@ -37,13 +37,14 @@
     },
     {
         "by_user": "onfirebyte",
-        "desc": "Framework for building server-side Swift applications",
+        "desc": "Modern, Rust-based terminal with integrated AI for faster software development.",
         "from_server": "Thinc.",
-        "package_name": "warp.dev",
+        "package_name": "Warp",
         "package_url": "https://www.warp.dev/",
         "tags": [
-            "backend",
-            "framework"
+            "terminal",
+            "devops",
+            "ide"
         ]
     },
     {
