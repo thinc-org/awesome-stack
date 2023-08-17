@@ -12,20 +12,22 @@
 9. [Framework](#framework)
 10. [Frontend](#frontend)
 11. [Git](#git)
-12. [Graphql](#graphql)
-13. [Ide](#ide)
-14. [Language](#language)
-15. [Python](#python)
-16. [Security](#security)
-17. [Service](#service)
-18. [Terminal](#terminal)
-19. [UI](#ui)
-20. [Youtube](#youtube)
-21. [Zsh](#zsh)
+12. [Graphics](#graphics)
+13. [Graphql](#graphql)
+14. [Ide](#ide)
+15. [Language](#language)
+16. [Python](#python)
+17. [Security](#security)
+18. [Service](#service)
+19. [Terminal](#terminal)
+20. [UI](#ui)
+21. [Youtube](#youtube)
+22. [Zsh](#zsh)
 ## Animation
 
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
 - [aceternity/animated-pin](https://www.aceternity.com/components/animated-pin) - Awesome TailwindCSS and Framer Motion Component
+- [effect-website](https://www.effect.website/) - A website for showcasing visual effects and animations.
 ## Api
 
 - [discord.js](https://discord.js.org/) - A powerful Node.js module that allows you to interact with the Discord API
@@ -77,7 +79,7 @@
 - [aircode](https://www.producthunt.com/posts/aircode) - Real-time collaborative coding, with video chat and screen sharing
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
-- [eff](https://www.effect.website/) - Synchronizing web and app look and feel with minimal effort. stack: frontend, terminal
+- [effect-website](https://www.effect.website/) - A website for showcasing visual effects and animations.
 - [Eventpop CSS Meetup](https://www.eventpop.me/e/15612) - Bringing CSS enthusiasts together to discuss new trends and techniques.
 - [reasonml.github.io](https://reasonml.github.io/docs/en/what-and-why) - ReasonML is an expressive and safe programming language that combines the simplicity and efficiency of JavaScript with the strong types and safety guarantees of OCaml.
 - [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
@@ -87,6 +89,9 @@
 ## Git
 
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
+## Graphics
+
+- [effect-website](https://www.effect.website/) - A website for showcasing visual effects and animations.
 ## Graphql
 
 - [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
@@ -114,7 +119,6 @@
 
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
-- [eff](https://www.effect.website/) - Synchronizing web and app look and feel with minimal effort. stack: frontend, terminal
 - [helix-editor](https://helix-editor.com/) - A minimal terminal text editor with a focus on speed and simplicity.
 - [lazyvim](https://www.lazyvim.org/) - Simplified Vim configuration for beginners
 - [styfle/dub](https://github.com/styfle/dub) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
