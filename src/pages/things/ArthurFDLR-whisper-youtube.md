@@ -4,11 +4,11 @@ title: ArthurFDLR/whisper-youtube
 
 tag: 
 
-  - frontend
-  - framework
+  - backend
+  - python
   - youtube 
 
-desc: Whisper is a video and audio comments and annotations framework for YouTube videos. 
+desc: A Python library for extracting audio features from YouTube videos. 
 
 by: peam1146 
 
