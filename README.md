@@ -37,6 +37,7 @@
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
 - [discord.js](https://discord.js.org/) - A powerful Node.js module that allows you to interact with the Discord API
 - [Drupal](https://www.drupal.org/) - Drupal is a free and open source content management system written in PHP
+- [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
 - [odin-lang](https://odin-lang.org/) - A fast, concise, statically-typed systems programming language with a focus on expressiveness and ease of use
 - [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
 - [styfle/dub](https://github.com/styfle/dub) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
@@ -64,6 +65,7 @@
 - [3b1b/manim](https://github.com/3b1b/manim) - Manim is mathematical animation library
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
+- [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
 - [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
 - [sveltejs/kit](https://kit.svelte.dev/) - Svelte Kit is a framework for building web applications with Svelte
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
