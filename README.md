@@ -77,7 +77,6 @@
 - [aircode](https://www.producthunt.com/posts/aircode) - Real-time collaborative coding, with video chat and screen sharing
 - [AstroNvim](https://github.com/AstroNvim/AstroNvim) - An aesthetic and feature-rich neovim config with a great set of plugins.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - Bubble Tea is a fun, functional and stateful way to build terminal apps using the Elm Architecture.
-- [effect-website](https://www.effect.website/) - A website showcasing various effects and animations created using HTML, CSS, and JavaScript
 - [Eventpop CSS Meetup](https://www.eventpop.me/e/15612) - Bringing CSS enthusiasts together to discuss new trends and techniques.
 - [reasonml.github.io](https://reasonml.github.io/docs/en/what-and-why) - ReasonML is an expressive and safe programming language that combines the simplicity and efficiency of JavaScript with the strong types and safety guarantees of OCaml.
 - [redwood](https://github.com/redwoodjs/redwood) - Opinionated full-stack JavaScript/TypeScript web app framework with React frontend and custom GraphQL API.
