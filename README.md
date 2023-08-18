@@ -23,14 +23,15 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 13. [Ide](#ide)
 14. [Koa](#koa)
 15. [Language](#language)
-16. [Python](#python)
-17. [React](#react)
-18. [Security](#security)
-19. [State-management](#state-management)
-20. [Terminal](#terminal)
-21. [Typescript](#typescript)
-22. [Youtube](#youtube)
-23. [Zsh](#zsh)
+16. [Plugin](#plugin)
+17. [Python](#python)
+18. [React](#react)
+19. [Security](#security)
+20. [State-management](#state-management)
+21. [Terminal](#terminal)
+22. [Typescript](#typescript)
+23. [Youtube](#youtube)
+24. [Zsh](#zsh)
 ## Animation
 
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
@@ -89,6 +90,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [awesome-stack](https://github.com/thinc-org/awesome-stack) - Curated list of awesome technologies for building a stack. Covers backend, frontend, database, devops, and more.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - CloudBeaver is a web-based cloud database manager written in TypeScript and React.
 - [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
+- [figma-community/find-replace](https://www.figma.com/community/plugin/735072959812183643/Find-and-Replace) - Find and Replace plugin for Figma
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Fuse.js is a lightweight fuzzy-search, in JavaScript, with zero dependencies.
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
@@ -104,6 +106,9 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Language
 
 - [Odin Programming Language](https://odin-lang.org/) - A high-performance, data-oriented programming language built as an alternative to C.
+## Plugin
+
+- [figma-community/find-replace](https://www.figma.com/community/plugin/735072959812183643/Find-and-Replace) - Find and Replace plugin for Figma
 ## Python
 
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
