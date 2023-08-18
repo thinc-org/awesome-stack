@@ -10,24 +10,25 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 
 1. [Animation](#animation)
 2. [Backend](#backend)
-3. [Compiler](#compiler)
-4. [Database](#database)
-5. [Deployment](#deployment)
-6. [Devops](#devops)
-7. [Express](#express)
-8. [Framework](#framework)
-9. [Frontend](#frontend)
-10. [Ide](#ide)
-11. [Koa](#koa)
-12. [Language](#language)
-13. [Python](#python)
-14. [React](#react)
-15. [Security](#security)
-16. [State-management](#state-management)
-17. [Terminal](#terminal)
-18. [Typescript](#typescript)
-19. [Youtube](#youtube)
-20. [Zsh](#zsh)
+3. [Collaboration](#collaboration)
+4. [Compiler](#compiler)
+5. [Database](#database)
+6. [Deployment](#deployment)
+7. [Devops](#devops)
+8. [Express](#express)
+9. [Framework](#framework)
+10. [Frontend](#frontend)
+11. [Ide](#ide)
+12. [Koa](#koa)
+13. [Language](#language)
+14. [Python](#python)
+15. [React](#react)
+16. [Security](#security)
+17. [State-management](#state-management)
+18. [Terminal](#terminal)
+19. [Typescript](#typescript)
+20. [Youtube](#youtube)
+21. [Zsh](#zsh)
 ## Animation
 
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
@@ -40,8 +41,12 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
 - [kysely](https://github.com/kysely-org/kysely) - Type-safe and autocompletion-friendly typescript SQL query builder for node.js and other javascript environments
 - [Odin Programming Language](https://odin-lang.org/) - A high-performance, data-oriented programming language built as an alternative to C.
+- [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
+## Collaboration
+
+- [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
 ## Compiler
 
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
@@ -78,6 +83,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Fuse.js is a lightweight fuzzy-search, in JavaScript, with zero dependencies.
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
+- [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 ## Ide

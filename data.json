@@ -199,5 +199,17 @@
             "backend",
             "devops"
         ]
+    },
+    {
+        "by_user": "bankbkbkk",
+        "desc": "Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.",
+        "from_server": "Thinc.",
+        "package_name": "Outline",
+        "package_url": "https://www.getoutline.com/",
+        "tags": [
+            "backend",
+            "frontend",
+            "collaboration"
+        ]
     }
 ]
