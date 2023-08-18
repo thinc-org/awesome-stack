@@ -211,5 +211,17 @@
             "frontend",
             "collaboration"
         ]
+    },
+    {
+        "by_user": "bankbkbkk",
+        "desc": "One platform for creative minds. Alternative to Notion & Miro. Privacy-focused, open-source.",
+        "from_server": "Thinc.",
+        "package_name": "AFFiNE",
+        "package_url": "https://github.com/toeverything/AFFiNE",
+        "tags": [
+            "frontend",
+            "collab",
+            "canvas"
+        ]
     }
 ]

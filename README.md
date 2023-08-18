@@ -10,25 +10,27 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 
 1. [Animation](#animation)
 2. [Backend](#backend)
-3. [Collaboration](#collaboration)
-4. [Compiler](#compiler)
-5. [Database](#database)
-6. [Deployment](#deployment)
-7. [Devops](#devops)
-8. [Express](#express)
-9. [Framework](#framework)
-10. [Frontend](#frontend)
-11. [Ide](#ide)
-12. [Koa](#koa)
-13. [Language](#language)
-14. [Python](#python)
-15. [React](#react)
-16. [Security](#security)
-17. [State-management](#state-management)
-18. [Terminal](#terminal)
-19. [Typescript](#typescript)
-20. [Youtube](#youtube)
-21. [Zsh](#zsh)
+3. [Canvas](#canvas)
+4. [Collab](#collab)
+5. [Collaboration](#collaboration)
+6. [Compiler](#compiler)
+7. [Database](#database)
+8. [Deployment](#deployment)
+9. [Devops](#devops)
+10. [Express](#express)
+11. [Framework](#framework)
+12. [Frontend](#frontend)
+13. [Ide](#ide)
+14. [Koa](#koa)
+15. [Language](#language)
+16. [Python](#python)
+17. [React](#react)
+18. [Security](#security)
+19. [State-management](#state-management)
+20. [Terminal](#terminal)
+21. [Typescript](#typescript)
+22. [Youtube](#youtube)
+23. [Zsh](#zsh)
 ## Animation
 
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
@@ -44,6 +46,12 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
+## Canvas
+
+- [AFFiNE](https://github.com/toeverything/AFFiNE) - One platform for creative minds. Alternative to Notion & Miro. Privacy-focused, open-source.
+## Collab
+
+- [AFFiNE](https://github.com/toeverything/AFFiNE) - One platform for creative minds. Alternative to Notion & Miro. Privacy-focused, open-source.
 ## Collaboration
 
 - [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
@@ -76,6 +84,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
 ## Frontend
 
+- [AFFiNE](https://github.com/toeverything/AFFiNE) - One platform for creative minds. Alternative to Notion & Miro. Privacy-focused, open-source.
 - [Awesome WhatTheFar](https://github.com/WhatTheFar/awesome-whatthefar) - Curated list of awesome WhatTheFar
 - [awesome-stack](https://github.com/thinc-org/awesome-stack) - Curated list of awesome technologies for building a stack. Covers backend, frontend, database, devops, and more.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - CloudBeaver is a web-based cloud database manager written in TypeScript and React.
