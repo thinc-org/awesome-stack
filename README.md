@@ -29,9 +29,10 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 19. [Security](#security)
 20. [State-management](#state-management)
 21. [Terminal](#terminal)
-22. [Typescript](#typescript)
-23. [Youtube](#youtube)
-24. [Zsh](#zsh)
+22. [Testing](#testing)
+23. [Typescript](#typescript)
+24. [Youtube](#youtube)
+25. [Zsh](#zsh)
 ## Animation
 
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
@@ -47,6 +48,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
+- [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 ## Canvas
 
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - One platform for creative minds. Alternative to Notion & Miro. Privacy-focused, open-source.
@@ -83,6 +85,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
+- [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 ## Frontend
 
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - One platform for creative minds. Alternative to Notion & Miro. Privacy-focused, open-source.
@@ -127,6 +130,9 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Fuse.js is a lightweight fuzzy-search, in JavaScript, with zero dependencies.
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with integrated AI for faster software development.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - A flexible and fast Zsh plugin manager with clean fpath, reports, completion management, turbo mode and dozens of other zadd-on features
+## Testing
+
+- [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 ## Typescript
 
 - [kysely](https://github.com/kysely-org/kysely) - Type-safe and autocompletion-friendly typescript SQL query builder for node.js and other javascript environments

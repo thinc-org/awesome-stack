@@ -234,5 +234,17 @@
             "frontend",
             "plugin"
         ]
+    },
+    {
+        "by_user": "bankbkbkk",
+        "desc": "Next-gen browser and mobile automation test framework for Node.js",
+        "from_server": "Thinc.",
+        "package_name": "webdriverio/webdriverio",
+        "package_url": "https://github.com/webdriverio/webdriverio",
+        "tags": [
+            "backend",
+            "testing",
+            "framework"
+        ]
     }
 ]
