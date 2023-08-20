@@ -9,38 +9,43 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Contents
 
 1. [Animation](#animation)
-2. [Backend](#backend)
-3. [Canvas](#canvas)
-4. [Collab](#collab)
-5. [Collaboration](#collaboration)
-6. [Compiler](#compiler)
-7. [Database](#database)
-8. [Deployment](#deployment)
-9. [Devops](#devops)
-10. [Express](#express)
-11. [Framework](#framework)
-12. [Frontend](#frontend)
-13. [Ide](#ide)
-14. [Koa](#koa)
-15. [Language](#language)
-16. [Plugin](#plugin)
-17. [Python](#python)
-18. [React](#react)
-19. [Security](#security)
-20. [State-management](#state-management)
-21. [Terminal](#terminal)
-22. [Testing](#testing)
-23. [Typescript](#typescript)
-24. [Youtube](#youtube)
-25. [Zsh](#zsh)
+2. [Auth](#auth)
+3. [Backend](#backend)
+4. [Canvas](#canvas)
+5. [Collab](#collab)
+6. [Collaboration](#collaboration)
+7. [Compiler](#compiler)
+8. [Database](#database)
+9. [Deployment](#deployment)
+10. [Devops](#devops)
+11. [Express](#express)
+12. [Framework](#framework)
+13. [Frontend](#frontend)
+14. [Ide](#ide)
+15. [Koa](#koa)
+16. [Language](#language)
+17. [Plugin](#plugin)
+18. [Python](#python)
+19. [React](#react)
+20. [Security](#security)
+21. [State-management](#state-management)
+22. [Terminal](#terminal)
+23. [Testing](#testing)
+24. [Typescript](#typescript)
+25. [Youtube](#youtube)
+26. [Zsh](#zsh)
 ## Animation
 
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
+## Auth
+
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Alternative implementation of the Bitwarden server API written in Rust, perfect for self-hosted deployment.
 ## Backend
 
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
 - [Awesome WhatTheFar](https://github.com/WhatTheFar/awesome-whatthefar) - Curated list of awesome WhatTheFar
 - [awesome-stack](https://github.com/thinc-org/awesome-stack) - Curated list of awesome technologies for building a stack. Covers backend, frontend, database, devops, and more.
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Alternative implementation of the Bitwarden server API written in Rust, perfect for self-hosted deployment.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - CloudBeaver is a web-based cloud database manager written in TypeScript and React.
 - [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
 - [kysely](https://github.com/kysely-org/kysely) - Type-safe and autocompletion-friendly typescript SQL query builder for node.js and other javascript environments
@@ -72,6 +77,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 
 - [Awesome WhatTheFar](https://github.com/WhatTheFar/awesome-whatthefar) - Curated list of awesome WhatTheFar
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Alternative implementation of the Bitwarden server API written in Rust, perfect for self-hosted deployment.
 - [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with integrated AI for faster software development.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - A flexible and fast Zsh plugin manager with clean fpath, reports, completion management, turbo mode and dozens of other zadd-on features

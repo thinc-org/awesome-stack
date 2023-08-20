@@ -246,5 +246,17 @@
             "testing",
             "framework"
         ]
+    },
+    {
+        "by_user": "bankbkbkk",
+        "desc": "Alternative implementation of the Bitwarden server API written in Rust, perfect for self-hosted deployment.",
+        "from_server": "Thinc.",
+        "package_name": "dani-garcia/vaultwarden",
+        "package_url": "https://github.com/dani-garcia/vaultwarden",
+        "tags": [
+            "backend",
+            "devops",
+            "auth"
+        ]
     }
 ]
