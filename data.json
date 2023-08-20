@@ -258,5 +258,15 @@
             "devops",
             "auth"
         ]
+    },
+    {
+        "by_user": "bankbkbkk",
+        "desc": "Curated list of self-hosted software",
+        "from_server": "Thinc.",
+        "package_name": "awesome-selfhosted",
+        "package_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+        "tags": [
+            "backend"
+        ]
     }
 ]
