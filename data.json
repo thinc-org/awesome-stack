@@ -292,5 +292,17 @@
             "git",
             "vim"
         ]
+    },
+    {
+        "by_user": "peam1146",
+        "desc": "A self-hosted, offline, ChatGPT-like chatbot, powered by Llama 2. 100% private, with no data leaving your device.",
+        "from_server": "Thinc.",
+        "package_name": "LlamaGPT",
+        "package_url": "https://github.com/getumbrel/llama-gpt",
+        "tags": [
+            "chatbot",
+            "backend",
+            "deployment"
+        ]
     }
 ]

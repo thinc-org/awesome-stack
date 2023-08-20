@@ -12,30 +12,31 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 2. [Auth](#auth)
 3. [Backend](#backend)
 4. [Canvas](#canvas)
-5. [Collab](#collab)
-6. [Collaboration](#collaboration)
-7. [Compiler](#compiler)
-8. [Database](#database)
-9. [Deployment](#deployment)
-10. [Devops](#devops)
-11. [Express](#express)
-12. [Framework](#framework)
-13. [Frontend](#frontend)
-14. [Git](#git)
-15. [Ide](#ide)
-16. [Koa](#koa)
-17. [Language](#language)
-18. [Plugin](#plugin)
-19. [Python](#python)
-20. [React](#react)
-21. [Security](#security)
-22. [State-management](#state-management)
-23. [Terminal](#terminal)
-24. [Testing](#testing)
-25. [Typescript](#typescript)
-26. [Vim](#vim)
-27. [Youtube](#youtube)
-28. [Zsh](#zsh)
+5. [Chatbot](#chatbot)
+6. [Collab](#collab)
+7. [Collaboration](#collaboration)
+8. [Compiler](#compiler)
+9. [Database](#database)
+10. [Deployment](#deployment)
+11. [Devops](#devops)
+12. [Express](#express)
+13. [Framework](#framework)
+14. [Frontend](#frontend)
+15. [Git](#git)
+16. [Ide](#ide)
+17. [Koa](#koa)
+18. [Language](#language)
+19. [Plugin](#plugin)
+20. [Python](#python)
+21. [React](#react)
+22. [Security](#security)
+23. [State-management](#state-management)
+24. [Terminal](#terminal)
+25. [Testing](#testing)
+26. [Typescript](#typescript)
+27. [Vim](#vim)
+28. [Youtube](#youtube)
+29. [Zsh](#zsh)
 ## Animation
 
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
@@ -53,6 +54,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - CloudBeaver is a web-based cloud database manager written in TypeScript and React.
 - [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
 - [kysely](https://github.com/kysely-org/kysely) - Type-safe and autocompletion-friendly typescript SQL query builder for node.js and other javascript environments
+- [LlamaGPT](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot, powered by Llama 2. 100% private, with no data leaving your device.
 - [Odin Programming Language](https://odin-lang.org/) - A high-performance, data-oriented programming language built as an alternative to C.
 - [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
@@ -61,6 +63,9 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Canvas
 
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - One platform for creative minds. Alternative to Notion & Miro. Privacy-focused, open-source.
+## Chatbot
+
+- [LlamaGPT](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot, powered by Llama 2. 100% private, with no data leaving your device.
 ## Collab
 
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - One platform for creative minds. Alternative to Notion & Miro. Privacy-focused, open-source.
@@ -77,6 +82,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Deployment
 
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
+- [LlamaGPT](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot, powered by Llama 2. 100% private, with no data leaving your device.
 ## Devops
 
 - [acoshift/goreload](https://github.com/acoshift/goreload) - Goreload automatically recompiles your code when it detects a change. Stack: Go
