@@ -103,6 +103,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
+- [Zdog](https://github.com/metafizzy/zdog) - Round, flat, designer-friendly pseudo-3D engine. Create 3D models using 2D drawing APIs.
 ## Frontend
 
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - One platform for creative minds. Alternative to Notion & Miro. Privacy-focused, open-source.
@@ -117,6 +118,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
+- [Zdog](https://github.com/metafizzy/zdog) - Round, flat, designer-friendly pseudo-3D engine. Create 3D models using 2D drawing APIs.
 ## Git
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - fzf is a command-line fuzzy finder

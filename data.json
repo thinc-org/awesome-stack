@@ -304,5 +304,16 @@
             "backend",
             "deployment"
         ]
+    },
+    {
+        "by_user": "onfirebyte",
+        "desc": "Round, flat, designer-friendly pseudo-3D engine. Create 3D models using 2D drawing APIs.",
+        "from_server": "Thinc.",
+        "package_name": "Zdog",
+        "package_url": "https://github.com/metafizzy/zdog",
+        "tags": [
+            "frontend",
+            "framework"
+        ]
     }
 ]
