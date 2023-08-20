@@ -21,19 +21,21 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 11. [Express](#express)
 12. [Framework](#framework)
 13. [Frontend](#frontend)
-14. [Ide](#ide)
-15. [Koa](#koa)
-16. [Language](#language)
-17. [Plugin](#plugin)
-18. [Python](#python)
-19. [React](#react)
-20. [Security](#security)
-21. [State-management](#state-management)
-22. [Terminal](#terminal)
-23. [Testing](#testing)
-24. [Typescript](#typescript)
-25. [Youtube](#youtube)
-26. [Zsh](#zsh)
+14. [Git](#git)
+15. [Ide](#ide)
+16. [Koa](#koa)
+17. [Language](#language)
+18. [Plugin](#plugin)
+19. [Python](#python)
+20. [React](#react)
+21. [Security](#security)
+22. [State-management](#state-management)
+23. [Terminal](#terminal)
+24. [Testing](#testing)
+25. [Typescript](#typescript)
+26. [Vim](#vim)
+27. [Youtube](#youtube)
+28. [Zsh](#zsh)
 ## Animation
 
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
@@ -109,6 +111,9 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
+## Git
+
+- [junegunn/fzf](https://github.com/junegunn/fzf) - fzf is a command-line fuzzy finder
 ## Ide
 
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with integrated AI for faster software development.
@@ -137,6 +142,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 
 - [acoshift/goreload](https://github.com/acoshift/goreload) - Goreload automatically recompiles your code when it detects a change. Stack: Go
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
+- [junegunn/fzf](https://github.com/junegunn/fzf) - fzf is a command-line fuzzy finder
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Fuse.js is a lightweight fuzzy-search, in JavaScript, with zero dependencies.
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with integrated AI for faster software development.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - A flexible and fast Zsh plugin manager with clean fpath, reports, completion management, turbo mode and dozens of other zadd-on features
@@ -146,6 +152,9 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Typescript
 
 - [kysely](https://github.com/kysely-org/kysely) - Type-safe and autocompletion-friendly typescript SQL query builder for node.js and other javascript environments
+## Vim
+
+- [junegunn/fzf](https://github.com/junegunn/fzf) - fzf is a command-line fuzzy finder
 ## Youtube
 
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.

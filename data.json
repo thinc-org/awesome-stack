@@ -280,5 +280,17 @@
             "terminal",
             "backend"
         ]
+    },
+    {
+        "by_user": "bankbkbkk",
+        "desc": "fzf is a command-line fuzzy finder",
+        "from_server": "Thinc.",
+        "package_name": "junegunn/fzf",
+        "package_url": "https://github.com/junegunn/fzf",
+        "tags": [
+            "terminal",
+            "git",
+            "vim"
+        ]
     }
 ]
