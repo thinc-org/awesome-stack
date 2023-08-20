@@ -42,6 +42,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Alternative implementation of the Bitwarden server API written in Rust, perfect for self-hosted deployment.
 ## Backend
 
+- [acoshift/goreload](https://github.com/acoshift/goreload) - Goreload automatically recompiles your code when it detects a change. Stack: Go
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
 - [Awesome WhatTheFar](https://github.com/WhatTheFar/awesome-whatthefar) - Curated list of awesome WhatTheFar
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Curated list of self-hosted software
@@ -76,6 +77,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
 ## Devops
 
+- [acoshift/goreload](https://github.com/acoshift/goreload) - Goreload automatically recompiles your code when it detects a change. Stack: Go
 - [Awesome WhatTheFar](https://github.com/WhatTheFar/awesome-whatthefar) - Curated list of awesome WhatTheFar
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Alternative implementation of the Bitwarden server API written in Rust, perfect for self-hosted deployment.
@@ -133,6 +135,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 ## Terminal
 
+- [acoshift/goreload](https://github.com/acoshift/goreload) - Goreload automatically recompiles your code when it detects a change. Stack: Go
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Fuse.js is a lightweight fuzzy-search, in JavaScript, with zero dependencies.
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with integrated AI for faster software development.

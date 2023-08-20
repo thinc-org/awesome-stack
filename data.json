@@ -268,5 +268,17 @@
         "tags": [
             "backend"
         ]
+    },
+    {
+        "by_user": "peam1146",
+        "desc": "Goreload automatically recompiles your code when it detects a change. Stack: Go",
+        "from_server": "Thinc.",
+        "package_name": "acoshift/goreload",
+        "package_url": "https://github.com/acoshift/goreload",
+        "tags": [
+            "devops",
+            "terminal",
+            "backend"
+        ]
     }
 ]
