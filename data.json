@@ -315,5 +315,17 @@
             "frontend",
             "framework"
         ]
+    },
+    {
+        "by_user": "bankbkbkk",
+        "desc": "Distributed block storage for Kubernetes. Install with one command. Intuitive GUI dashboard.",
+        "from_server": "Thinc.",
+        "package_name": "longhorn/longhorn",
+        "package_url": "https://github.com/longhorn/longhorn",
+        "tags": [
+            "backend",
+            "devops",
+            "storage"
+        ]
     }
 ]

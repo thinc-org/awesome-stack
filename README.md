@@ -31,12 +31,13 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 21. [React](#react)
 22. [Security](#security)
 23. [State-management](#state-management)
-24. [Terminal](#terminal)
-25. [Testing](#testing)
-26. [Typescript](#typescript)
-27. [Vim](#vim)
-28. [Youtube](#youtube)
-29. [Zsh](#zsh)
+24. [Storage](#storage)
+25. [Terminal](#terminal)
+26. [Testing](#testing)
+27. [Typescript](#typescript)
+28. [Vim](#vim)
+29. [Youtube](#youtube)
+30. [Zsh](#zsh)
 ## Animation
 
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
@@ -55,6 +56,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
 - [kysely](https://github.com/kysely-org/kysely) - Type-safe and autocompletion-friendly typescript SQL query builder for node.js and other javascript environments
 - [LlamaGPT](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot, powered by Llama 2. 100% private, with no data leaving your device.
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Distributed block storage for Kubernetes. Install with one command. Intuitive GUI dashboard.
 - [Odin Programming Language](https://odin-lang.org/) - A high-performance, data-oriented programming language built as an alternative to C.
 - [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
@@ -90,6 +92,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Alternative implementation of the Bitwarden server API written in Rust, perfect for self-hosted deployment.
 - [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Distributed block storage for Kubernetes. Install with one command. Intuitive GUI dashboard.
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with integrated AI for faster software development.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - A flexible and fast Zsh plugin manager with clean fpath, reports, completion management, turbo mode and dozens of other zadd-on features
 ## Express
@@ -146,6 +149,9 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## State-management
 
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
+## Storage
+
+- [longhorn/longhorn](https://github.com/longhorn/longhorn) - Distributed block storage for Kubernetes. Install with one command. Intuitive GUI dashboard.
 ## Terminal
 
 - [acoshift/goreload](https://github.com/acoshift/goreload) - Goreload automatically recompiles your code when it detects a change. Stack: Go
