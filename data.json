@@ -327,5 +327,17 @@
             "devops",
             "storage"
         ]
+    },
+    {
+        "by_user": "bankbkbkk",
+        "desc": "Open source registry for Kubernetes. Secures artifacts with policies and access control. Scans images for vulnerabilities and signs them as trusted.",
+        "from_server": "Thinc.",
+        "package_name": "goharbor",
+        "package_url": "https://goharbor.io/",
+        "tags": [
+            "backend",
+            "devops",
+            "container"
+        ]
     }
 ]
