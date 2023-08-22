@@ -31,14 +31,15 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 21. [Python](#python)
 22. [React](#react)
 23. [Security](#security)
-24. [State-management](#state-management)
-25. [Storage](#storage)
-26. [Terminal](#terminal)
-27. [Testing](#testing)
-28. [Typescript](#typescript)
-29. [Vim](#vim)
-30. [Youtube](#youtube)
-31. [Zsh](#zsh)
+24. [Service](#service)
+25. [State-management](#state-management)
+26. [Storage](#storage)
+27. [Terminal](#terminal)
+28. [Testing](#testing)
+29. [Typescript](#typescript)
+30. [Vim](#vim)
+31. [Youtube](#youtube)
+32. [Zsh](#zsh)
 ## Animation
 
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
@@ -99,6 +100,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
 - [goharbor](https://goharbor.io/) - Open source registry for Kubernetes. Secures artifacts with policies and access control. Scans images for vulnerabilities and signs them as trusted.
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Distributed block storage for Kubernetes. Install with one command. Intuitive GUI dashboard.
+- [Umbrel App Store](https://apps.umbrel.com/) - Discover and install self-hosted apps on umbrelOS
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with integrated AI for faster software development.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - A flexible and fast Zsh plugin manager with clean fpath, reports, completion management, turbo mode and dozens of other zadd-on features
 ## Express
@@ -127,6 +129,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
+- [Umbrel App Store](https://apps.umbrel.com/) - Discover and install self-hosted apps on umbrelOS
 - [Zdog](https://github.com/metafizzy/zdog) - Round, flat, designer-friendly pseudo-3D engine. Create 3D models using 2D drawing APIs.
 ## Git
 
@@ -152,6 +155,9 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Security
 
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
+## Service
+
+- [Umbrel App Store](https://apps.umbrel.com/) - Discover and install self-hosted apps on umbrelOS
 ## State-management
 
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS

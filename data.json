@@ -339,5 +339,17 @@
             "devops",
             "container"
         ]
+    },
+    {
+        "by_user": "p16w",
+        "desc": "Discover and install self-hosted apps on umbrelOS",
+        "from_server": "Thinc.",
+        "package_name": "Umbrel App Store",
+        "package_url": "https://apps.umbrel.com/",
+        "tags": [
+            "frontend",
+            "devops",
+            "service"
+        ]
     }
 ]
