@@ -351,5 +351,17 @@
             "devops",
             "service"
         ]
+    },
+    {
+        "by_user": "bankbkbkk",
+        "desc": "Mailpit - email testing for developers. SMTP server with a web interface and API for testing and integration. Written in Go.",
+        "from_server": "Thinc.",
+        "package_name": "axllent/mailpit",
+        "package_url": "https://github.com/axllent/mailpit",
+        "tags": [
+            "devops",
+            "backend",
+            "terminal"
+        ]
     }
 ]

@@ -53,6 +53,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Awesome WhatTheFar](https://github.com/WhatTheFar/awesome-whatthefar) - Curated list of awesome WhatTheFar
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Curated list of self-hosted software
 - [awesome-stack](https://github.com/thinc-org/awesome-stack) - Curated list of awesome technologies for building a stack. Covers backend, frontend, database, devops, and more.
+- [axllent/mailpit](https://github.com/axllent/mailpit) - Mailpit - email testing for developers. SMTP server with a web interface and API for testing and integration. Written in Go.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Alternative implementation of the Bitwarden server API written in Rust, perfect for self-hosted deployment.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - CloudBeaver is a web-based cloud database manager written in TypeScript and React.
 - [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
@@ -95,6 +96,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 
 - [acoshift/goreload](https://github.com/acoshift/goreload) - Goreload automatically recompiles your code when it detects a change. Stack: Go
 - [Awesome WhatTheFar](https://github.com/WhatTheFar/awesome-whatthefar) - Curated list of awesome WhatTheFar
+- [axllent/mailpit](https://github.com/axllent/mailpit) - Mailpit - email testing for developers. SMTP server with a web interface and API for testing and integration. Written in Go.
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Alternative implementation of the Bitwarden server API written in Rust, perfect for self-hosted deployment.
 - [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
@@ -167,6 +169,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Terminal
 
 - [acoshift/goreload](https://github.com/acoshift/goreload) - Goreload automatically recompiles your code when it detects a change. Stack: Go
+- [axllent/mailpit](https://github.com/axllent/mailpit) - Mailpit - email testing for developers. SMTP server with a web interface and API for testing and integration. Written in Go.
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
 - [junegunn/fzf](https://github.com/junegunn/fzf) - fzf is a command-line fuzzy finder
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Fuse.js is a lightweight fuzzy-search, in JavaScript, with zero dependencies.
