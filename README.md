@@ -102,6 +102,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
 - [goharbor](https://goharbor.io/) - Open source registry for Kubernetes. Secures artifacts with policies and access control. Scans images for vulnerabilities and signs them as trusted.
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Distributed block storage for Kubernetes. Install with one command. Intuitive GUI dashboard.
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) - actionlint is a static checker for GitHub Actions workflow files.
 - [Umbrel App Store](https://apps.umbrel.com/) - Discover and install self-hosted apps on umbrelOS
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with integrated AI for faster software development.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - A flexible and fast Zsh plugin manager with clean fpath, reports, completion management, turbo mode and dozens of other zadd-on features
@@ -136,6 +137,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Git
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - fzf is a command-line fuzzy finder
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) - actionlint is a static checker for GitHub Actions workflow files.
 ## Ide
 
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with integrated AI for faster software development.
@@ -173,6 +175,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
 - [junegunn/fzf](https://github.com/junegunn/fzf) - fzf is a command-line fuzzy finder
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Fuse.js is a lightweight fuzzy-search, in JavaScript, with zero dependencies.
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) - actionlint is a static checker for GitHub Actions workflow files.
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with integrated AI for faster software development.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - A flexible and fast Zsh plugin manager with clean fpath, reports, completion management, turbo mode and dozens of other zadd-on features
 ## Testing

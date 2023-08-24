@@ -363,5 +363,17 @@
             "backend",
             "terminal"
         ]
+    },
+    {
+        "by_user": "bankbkbkk",
+        "desc": "actionlint is a static checker for GitHub Actions workflow files.",
+        "from_server": "Thinc.",
+        "package_name": "rhysd/actionlint",
+        "package_url": "https://github.com/rhysd/actionlint",
+        "tags": [
+            "devops",
+            "git",
+            "terminal"
+        ]
     }
 ]
