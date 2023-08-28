@@ -58,6 +58,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - CloudBeaver is a web-based cloud database manager written in TypeScript and React.
 - [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
 - [goharbor](https://goharbor.io/) - Open source registry for Kubernetes. Secures artifacts with policies and access control. Scans images for vulnerabilities and signs them as trusted.
+- [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - GPT Pilot is a research project to generate fully working apps using GPT-4. AI codes 95% of the app, developer needed for the remaining 5%.
 - [kysely](https://github.com/kysely-org/kysely) - Type-safe and autocompletion-friendly typescript SQL query builder for node.js and other javascript environments
 - [LlamaGPT](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot, powered by Llama 2. 100% private, with no data leaving your device.
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Distributed block storage for Kubernetes. Install with one command. Intuitive GUI dashboard.
@@ -113,6 +114,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 
 - [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
 - [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
+- [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - GPT Pilot is a research project to generate fully working apps using GPT-4. AI codes 95% of the app, developer needed for the remaining 5%.
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
@@ -127,6 +129,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
 - [figma-community/find-replace](https://www.figma.com/community/plugin/735072959812183643/Find-and-Replace) - Find and Replace plugin for Figma
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
+- [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - GPT Pilot is a research project to generate fully working apps using GPT-4. AI codes 95% of the app, developer needed for the remaining 5%.
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Fuse.js is a lightweight fuzzy-search, in JavaScript, with zero dependencies.
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 - [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.

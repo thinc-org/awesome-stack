@@ -375,5 +375,17 @@
             "git",
             "terminal"
         ]
+    },
+    {
+        "by_user": "p16w",
+        "desc": "GPT Pilot is a research project to generate fully working apps using GPT-4. AI codes 95% of the app, developer needed for the remaining 5%.",
+        "from_server": "Thinc.",
+        "package_name": "GPT Pilot",
+        "package_url": "https://github.com/Pythagora-io/gpt-pilot",
+        "tags": [
+            "backend",
+            "frontend",
+            "framework"
+        ]
     }
 ]
