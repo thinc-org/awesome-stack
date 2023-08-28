@@ -387,5 +387,17 @@
             "frontend",
             "framework"
         ]
+    },
+    {
+        "by_user": "peam1146",
+        "desc": "SQLite Developer Experience in an Edge Database",
+        "from_server": "Thinc.",
+        "package_name": "Turso",
+        "package_url": "https://turso.tech/",
+        "tags": [
+            "backend",
+            "devops",
+            "database"
+        ]
     }
 ]

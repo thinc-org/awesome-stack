@@ -65,6 +65,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Odin Programming Language](https://odin-lang.org/) - A high-performance, data-oriented programming language built as an alternative to C.
 - [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
+- [Turso](https://turso.tech/) - SQLite Developer Experience in an Edge Database
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 ## Canvas
@@ -89,6 +90,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 
 - [awesome-stack](https://github.com/thinc-org/awesome-stack) - Curated list of awesome technologies for building a stack. Covers backend, frontend, database, devops, and more.
 - [kysely](https://github.com/kysely-org/kysely) - Type-safe and autocompletion-friendly typescript SQL query builder for node.js and other javascript environments
+- [Turso](https://turso.tech/) - SQLite Developer Experience in an Edge Database
 ## Deployment
 
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
@@ -104,6 +106,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [goharbor](https://goharbor.io/) - Open source registry for Kubernetes. Secures artifacts with policies and access control. Scans images for vulnerabilities and signs them as trusted.
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Distributed block storage for Kubernetes. Install with one command. Intuitive GUI dashboard.
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - actionlint is a static checker for GitHub Actions workflow files.
+- [Turso](https://turso.tech/) - SQLite Developer Experience in an Edge Database
 - [Umbrel App Store](https://apps.umbrel.com/) - Discover and install self-hosted apps on umbrelOS
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with integrated AI for faster software development.
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - A flexible and fast Zsh plugin manager with clean fpath, reports, completion management, turbo mode and dozens of other zadd-on features
