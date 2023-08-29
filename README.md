@@ -68,6 +68,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Turso](https://turso.tech/) - SQLite Developer Experience in an Edge Database
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
+- [Wing Language](https://www.winglang.io/) - Unified programming language for the cloud, combining infrastructure and runtime code. Works with Terraform/IaC and JavaScript.
 ## Canvas
 
 - [AFFiNE](https://github.com/toeverything/AFFiNE) - One platform for creative minds. Alternative to Notion & Miro. Privacy-focused, open-source.
@@ -122,6 +123,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
+- [Wing Language](https://www.winglang.io/) - Unified programming language for the cloud, combining infrastructure and runtime code. Works with Terraform/IaC and JavaScript.
 - [Zdog](https://github.com/metafizzy/zdog) - Round, flat, designer-friendly pseudo-3D engine. Create 3D models using 2D drawing APIs.
 ## Frontend
 
@@ -139,6 +141,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 - [Umbrel App Store](https://apps.umbrel.com/) - Discover and install self-hosted apps on umbrelOS
+- [Wing Language](https://www.winglang.io/) - Unified programming language for the cloud, combining infrastructure and runtime code. Works with Terraform/IaC and JavaScript.
 - [Zdog](https://github.com/metafizzy/zdog) - Round, flat, designer-friendly pseudo-3D engine. Create 3D models using 2D drawing APIs.
 ## Git
 

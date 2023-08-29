@@ -399,5 +399,17 @@
             "devops",
             "database"
         ]
+    },
+    {
+        "by_user": "peam1146",
+        "desc": "Unified programming language for the cloud, combining infrastructure and runtime code. Works with Terraform/IaC and JavaScript.",
+        "from_server": "Thinc.",
+        "package_name": "Wing Language",
+        "package_url": "https://www.winglang.io/",
+        "tags": [
+            "backend",
+            "frontend",
+            "framework"
+        ]
     }
 ]
