@@ -143,6 +143,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Fuse.js is a lightweight fuzzy-search, in JavaScript, with zero dependencies.
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 - [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
+- [quack-black/vercel](https://quack-black.vercel.app) - Minimal queue tool with neo-brutalism design
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 - [Triplex](https://triplex.dev/) - Visually edit React Three Fiber components. Made for coders, artists, everyone.
@@ -181,6 +182,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Service
 
 - [Instagram](https://www.instagram.com/p/Cr0j2fsp0A-7xiiwQXv95ZjPI3K-l2AIbMFKWc0/?igshid=MzRlODBiNWFlZA==) - A social media platform for sharing photos and videos
+- [quack-black/vercel](https://quack-black.vercel.app) - Minimal queue tool with neo-brutalism design
 - [Umbrel App Store](https://apps.umbrel.com/) - Discover and install self-hosted apps on umbrelOS
 ## Socialmedia
 

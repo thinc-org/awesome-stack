@@ -446,5 +446,16 @@
             "framework",
             "ide"
         ]
+    },
+    {
+        "by_user": "p16w",
+        "desc": "Minimal queue tool with neo-brutalism design",
+        "from_server": "Thinc.",
+        "package_name": "quack-black/vercel",
+        "package_url": "https://quack-black.vercel.app",
+        "tags": [
+            "frontend",
+            "service"
+        ]
     }
 ]
