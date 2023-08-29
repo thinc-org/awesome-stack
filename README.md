@@ -124,6 +124,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - GPT Pilot is a research project to generate fully working apps using GPT-4. AI codes 95% of the app, developer needed for the remaining 5%.
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
+- [Triplex](https://triplex.dev/) - Visually edit React Three Fiber components. Made for coders, artists, everyone.
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [Wing Language](https://www.winglang.io/) - Unified programming language for the cloud, combining infrastructure and runtime code. Works with Terraform/IaC and JavaScript.
@@ -144,6 +145,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
+- [Triplex](https://triplex.dev/) - Visually edit React Three Fiber components. Made for coders, artists, everyone.
 - [Umbrel App Store](https://apps.umbrel.com/) - Discover and install self-hosted apps on umbrelOS
 - [Wing Language](https://www.winglang.io/) - Unified programming language for the cloud, combining infrastructure and runtime code. Works with Terraform/IaC and JavaScript.
 - [Zdog](https://github.com/metafizzy/zdog) - Round, flat, designer-friendly pseudo-3D engine. Create 3D models using 2D drawing APIs.
@@ -153,6 +155,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - actionlint is a static checker for GitHub Actions workflow files.
 ## Ide
 
+- [Triplex](https://triplex.dev/) - Visually edit React Three Fiber components. Made for coders, artists, everyone.
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with integrated AI for faster software development.
 ## Instagram
 

@@ -434,5 +434,17 @@
             "socialmedia",
             "instagram"
         ]
+    },
+    {
+        "by_user": "p16w",
+        "desc": "Visually edit React Three Fiber components. Made for coders, artists, everyone.",
+        "from_server": "Thinc.",
+        "package_name": "Triplex",
+        "package_url": "https://triplex.dev/",
+        "tags": [
+            "frontend",
+            "framework",
+            "ide"
+        ]
     }
 ]
