@@ -411,5 +411,17 @@
             "frontend",
             "framework"
         ]
+    },
+    {
+        "by_user": "p16w",
+        "desc": "A social media platform for sharing photos and videos",
+        "from_server": "Thinc.",
+        "package_name": "Instagram",
+        "package_url": "https://www.instagram.com/p/Cr0j2fsp0A-7xiiwQXv95ZjPI3K-l2AIbMFKWc0/?igshid=MzRlODBiNWFlZA==",
+        "tags": [
+            "frontend",
+            "service",
+            "auth"
+        ]
     }
 ]

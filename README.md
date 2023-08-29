@@ -46,6 +46,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Auth
 
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Alternative implementation of the Bitwarden server API written in Rust, perfect for self-hosted deployment.
+- [Instagram](https://www.instagram.com/p/Cr0j2fsp0A-7xiiwQXv95ZjPI3K-l2AIbMFKWc0/?igshid=MzRlODBiNWFlZA==) - A social media platform for sharing photos and videos
 ## Backend
 
 - [acoshift/goreload](https://github.com/acoshift/goreload) - Goreload automatically recompiles your code when it detects a change. Stack: Go
@@ -135,6 +136,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [figma-community/find-replace](https://www.figma.com/community/plugin/735072959812183643/Find-and-Replace) - Find and Replace plugin for Figma
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - GPT Pilot is a research project to generate fully working apps using GPT-4. AI codes 95% of the app, developer needed for the remaining 5%.
+- [Instagram](https://www.instagram.com/p/Cr0j2fsp0A-7xiiwQXv95ZjPI3K-l2AIbMFKWc0/?igshid=MzRlODBiNWFlZA==) - A social media platform for sharing photos and videos
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Fuse.js is a lightweight fuzzy-search, in JavaScript, with zero dependencies.
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 - [Outline](https://www.getoutline.com/) - Collaborative team knowledge base and wiki with intuitive editing experience and powerful search. Integrated with Slack and 20+ other tools.
@@ -170,6 +172,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 ## Service
 
+- [Instagram](https://www.instagram.com/p/Cr0j2fsp0A-7xiiwQXv95ZjPI3K-l2AIbMFKWc0/?igshid=MzRlODBiNWFlZA==) - A social media platform for sharing photos and videos
 - [Umbrel App Store](https://apps.umbrel.com/) - Discover and install self-hosted apps on umbrelOS
 ## State-management
 
