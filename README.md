@@ -25,21 +25,23 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 15. [Frontend](#frontend)
 16. [Git](#git)
 17. [Ide](#ide)
-18. [Koa](#koa)
-19. [Language](#language)
-20. [Plugin](#plugin)
-21. [Python](#python)
-22. [React](#react)
-23. [Security](#security)
-24. [Service](#service)
-25. [State-management](#state-management)
-26. [Storage](#storage)
-27. [Terminal](#terminal)
-28. [Testing](#testing)
-29. [Typescript](#typescript)
-30. [Vim](#vim)
-31. [Youtube](#youtube)
-32. [Zsh](#zsh)
+18. [Instagram](#instagram)
+19. [Koa](#koa)
+20. [Language](#language)
+21. [Plugin](#plugin)
+22. [Python](#python)
+23. [React](#react)
+24. [Security](#security)
+25. [Service](#service)
+26. [Socialmedia](#socialmedia)
+27. [State-management](#state-management)
+28. [Storage](#storage)
+29. [Terminal](#terminal)
+30. [Testing](#testing)
+31. [Typescript](#typescript)
+32. [Vim](#vim)
+33. [Youtube](#youtube)
+34. [Zsh](#zsh)
 ## Animation
 
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
@@ -152,6 +154,9 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Ide
 
 - [Warp](https://www.warp.dev/) - Modern, Rust-based terminal with integrated AI for faster software development.
+## Instagram
+
+- [@ppimpimx on Instagram](https://www.instagram.com/p/CwcgKffpl5v/?igshid=MzRlODBiNWFlZA==) - Instagram account of @ppimpimx
 ## Koa
 
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
@@ -174,6 +179,9 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 
 - [Instagram](https://www.instagram.com/p/Cr0j2fsp0A-7xiiwQXv95ZjPI3K-l2AIbMFKWc0/?igshid=MzRlODBiNWFlZA==) - A social media platform for sharing photos and videos
 - [Umbrel App Store](https://apps.umbrel.com/) - Discover and install self-hosted apps on umbrelOS
+## Socialmedia
+
+- [@ppimpimx on Instagram](https://www.instagram.com/p/CwcgKffpl5v/?igshid=MzRlODBiNWFlZA==) - Instagram account of @ppimpimx
 ## State-management
 
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS

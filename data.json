@@ -423,5 +423,16 @@
             "service",
             "auth"
         ]
+    },
+    {
+        "by_user": "p16w",
+        "desc": "Instagram account of @ppimpimx",
+        "from_server": "Thinc.",
+        "package_name": "@ppimpimx on Instagram",
+        "package_url": "https://www.instagram.com/p/CwcgKffpl5v/?igshid=MzRlODBiNWFlZA==",
+        "tags": [
+            "socialmedia",
+            "instagram"
+        ]
     }
 ]
