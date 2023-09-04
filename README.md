@@ -52,6 +52,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Backend
 
 - [acoshift/goreload](https://github.com/acoshift/goreload) - Goreload automatically recompiles your code when it detects a change. Stack: Go
+- [actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes operator for scaling self-hosted runners for GitHub Actions
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
 - [Awesome WhatTheFar](https://github.com/WhatTheFar/awesome-whatthefar) - Curated list of awesome WhatTheFar
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - Curated list of self-hosted software
@@ -97,11 +98,13 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Turso](https://turso.tech/) - SQLite Developer Experience in an Edge Database
 ## Deployment
 
+- [actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes operator for scaling self-hosted runners for GitHub Actions
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely
 - [LlamaGPT](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot, powered by Llama 2. 100% private, with no data leaving your device.
 ## Devops
 
 - [acoshift/goreload](https://github.com/acoshift/goreload) - Goreload automatically recompiles your code when it detects a change. Stack: Go
+- [actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes operator for scaling self-hosted runners for GitHub Actions
 - [Awesome WhatTheFar](https://github.com/WhatTheFar/awesome-whatthefar) - Curated list of awesome WhatTheFar
 - [axllent/mailpit](https://github.com/axllent/mailpit) - Mailpit - email testing for developers. SMTP server with a web interface and API for testing and integration. Written in Go.
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage dotfiles across machines, securely

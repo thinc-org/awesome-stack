@@ -457,5 +457,17 @@
             "frontend",
             "service"
         ]
+    },
+    {
+        "by_user": "bankbkbkk",
+        "desc": "Kubernetes operator for scaling self-hosted runners for GitHub Actions",
+        "from_server": "Thinc.",
+        "package_name": "actions-runner-controller",
+        "package_url": "https://github.com/actions/actions-runner-controller",
+        "tags": [
+            "backend",
+            "devops",
+            "deployment"
+        ]
     }
 ]
