@@ -469,5 +469,16 @@
             "devops",
             "deployment"
         ]
+    },
+    {
+        "by_user": "bombnp",
+        "desc": "Centralized Recommendations for TSConfig bases",
+        "from_server": "Thinc.",
+        "package_name": "tsconfig/bases",
+        "package_url": "https://github.com/tsconfig/bases",
+        "tags": [
+            "frontend",
+            "framework"
+        ]
     }
 ]

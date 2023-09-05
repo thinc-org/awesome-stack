@@ -128,6 +128,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 - [Triplex](https://triplex.dev/) - Visually edit React Three Fiber components. Made for coders, artists, everyone.
+- [tsconfig/bases](https://github.com/tsconfig/bases) - Centralized Recommendations for TSConfig bases
 - [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - A library for creating and working with controllers in Express or Koa. Helps with routing and request handling.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [Wing Language](https://www.winglang.io/) - Unified programming language for the cloud, combining infrastructure and runtime code. Works with Terraform/IaC and JavaScript.
@@ -150,6 +151,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Reason](https://reasonml.github.io/) - Write type safe code with JavaScript & OCaml ecosystems.
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 - [Triplex](https://triplex.dev/) - Visually edit React Three Fiber components. Made for coders, artists, everyone.
+- [tsconfig/bases](https://github.com/tsconfig/bases) - Centralized Recommendations for TSConfig bases
 - [Umbrel App Store](https://apps.umbrel.com/) - Discover and install self-hosted apps on umbrelOS
 - [Wing Language](https://www.winglang.io/) - Unified programming language for the cloud, combining infrastructure and runtime code. Works with Terraform/IaC and JavaScript.
 - [Zdog](https://github.com/metafizzy/zdog) - Round, flat, designer-friendly pseudo-3D engine. Create 3D models using 2D drawing APIs.
