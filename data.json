@@ -480,5 +480,17 @@
             "frontend",
             "framework"
         ]
+    },
+    {
+        "by_user": "peam1146",
+        "desc": "React UI Component Library with 90+ components, material, bootstrap, tailwind themes, and a theme designer",
+        "from_server": "Thinc.",
+        "package_name": "PrimeReact",
+        "package_url": "https://primereact.org/",
+        "tags": [
+            "frontend",
+            "framework",
+            "ui"
+        ]
     }
 ]
