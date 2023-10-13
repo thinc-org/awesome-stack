@@ -492,5 +492,16 @@
             "framework",
             "ui"
         ]
+    },
+    {
+        "by_user": "p16w",
+        "desc": "Collection of type-safe components in React/Tailwind for neobrutalism style",
+        "from_server": "Thinc.",
+        "package_name": "ekmas/neobrutalism-components",
+        "package_url": "https://github.com/ekmas/neobrutalism-components",
+        "tags": [
+            "frontend",
+            "framework"
+        ]
     }
 ]

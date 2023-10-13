@@ -125,6 +125,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 
 - [Drupal/CCK](https://www.drupal.org/project/cck) - Content Construction Kit: Create custom content types, fields, and add-ons for Drupal
 - [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
+- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - Collection of type-safe components in React/Tailwind for neobrutalism style
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - GPT Pilot is a research project to generate fully working apps using GPT-4. AI codes 95% of the app, developer needed for the remaining 5%.
 - [Nano Stores](https://github.com/nanostores/nanostores) - Tiny state manager for React, Preact, Vue, Svelte, Solid, Lit, Angular, and vanilla JS
 - [PrimeReact](https://primereact.org/) - React UI Component Library with 90+ components, material, bootstrap, tailwind themes, and a theme designer
@@ -142,6 +143,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [awesome-stack](https://github.com/thinc-org/awesome-stack) - Curated list of awesome technologies for building a stack. Covers backend, frontend, database, devops, and more.
 - [dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver) - CloudBeaver is a web-based cloud database manager written in TypeScript and React.
 - [Effect](https://effect.website/) - A powerful TypeScript library for creating complex synchronous and asynchronous programs with structured concurrency
+- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - Collection of type-safe components in React/Tailwind for neobrutalism style
 - [figma-community/find-replace](https://www.figma.com/community/plugin/735072959812183643/Find-and-Replace) - Find and Replace plugin for Figma
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - GPT Pilot is a research project to generate fully working apps using GPT-4. AI codes 95% of the app, developer needed for the remaining 5%.
