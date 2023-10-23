@@ -503,5 +503,17 @@
             "frontend",
             "framework"
         ]
+    },
+    {
+        "by_user": "p16w",
+        "desc": "Create computers with just functions. A basic model in mathematical logic.",
+        "from_server": "Thinc.",
+        "package_name": "Lambda Calculus",
+        "package_url": "https://pkpt.dev/blog/lambda-calculus",
+        "tags": [
+            "backend",
+            "math",
+            "theory"
+        ]
     }
 ]

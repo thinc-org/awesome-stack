@@ -28,21 +28,23 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 18. [Instagram](#instagram)
 19. [Koa](#koa)
 20. [Language](#language)
-21. [Plugin](#plugin)
-22. [Python](#python)
-23. [React](#react)
-24. [Security](#security)
-25. [Service](#service)
-26. [Socialmedia](#socialmedia)
-27. [State-management](#state-management)
-28. [Storage](#storage)
-29. [Terminal](#terminal)
-30. [Testing](#testing)
-31. [Typescript](#typescript)
-32. [Ui](#ui)
-33. [Vim](#vim)
-34. [Youtube](#youtube)
-35. [Zsh](#zsh)
+21. [Math](#math)
+22. [Plugin](#plugin)
+23. [Python](#python)
+24. [React](#react)
+25. [Security](#security)
+26. [Service](#service)
+27. [Socialmedia](#socialmedia)
+28. [State-management](#state-management)
+29. [Storage](#storage)
+30. [Terminal](#terminal)
+31. [Testing](#testing)
+32. [Theory](#theory)
+33. [Typescript](#typescript)
+34. [Ui](#ui)
+35. [Vim](#vim)
+36. [Youtube](#youtube)
+37. [Zsh](#zsh)
 ## Animation
 
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
@@ -65,6 +67,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [goharbor](https://goharbor.io/) - Open source registry for Kubernetes. Secures artifacts with policies and access control. Scans images for vulnerabilities and signs them as trusted.
 - [GPT Pilot](https://github.com/Pythagora-io/gpt-pilot) - GPT Pilot is a research project to generate fully working apps using GPT-4. AI codes 95% of the app, developer needed for the remaining 5%.
 - [kysely](https://github.com/kysely-org/kysely) - Type-safe and autocompletion-friendly typescript SQL query builder for node.js and other javascript environments
+- [Lambda Calculus](https://pkpt.dev/blog/lambda-calculus) - Create computers with just functions. A basic model in mathematical logic.
 - [LlamaGPT](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot, powered by Llama 2. 100% private, with no data leaving your device.
 - [longhorn/longhorn](https://github.com/longhorn/longhorn) - Distributed block storage for Kubernetes. Install with one command. Intuitive GUI dashboard.
 - [Odin Programming Language](https://odin-lang.org/) - A high-performance, data-oriented programming language built as an alternative to C.
@@ -177,6 +180,9 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Language
 
 - [Odin Programming Language](https://odin-lang.org/) - A high-performance, data-oriented programming language built as an alternative to C.
+## Math
+
+- [Lambda Calculus](https://pkpt.dev/blog/lambda-calculus) - Create computers with just functions. A basic model in mathematical logic.
 ## Plugin
 
 - [figma-community/find-replace](https://www.figma.com/community/plugin/735072959812183643/Find-and-Replace) - Find and Replace plugin for Figma
@@ -216,6 +222,9 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 ## Testing
 
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
+## Theory
+
+- [Lambda Calculus](https://pkpt.dev/blog/lambda-calculus) - Create computers with just functions. A basic model in mathematical logic.
 ## Typescript
 
 - [kysely](https://github.com/kysely-org/kysely) - Type-safe and autocompletion-friendly typescript SQL query builder for node.js and other javascript environments
