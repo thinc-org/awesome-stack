@@ -50,10 +50,12 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
 ## Auth
 
+- [@softnetics/rbac](https://www.npmjs.com/package/@softnetics/rbac) - O(1) type safe role based access control for managing permissions and roles
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Alternative implementation of the Bitwarden server API written in Rust, perfect for self-hosted deployment.
 - [Instagram](https://www.instagram.com/p/Cr0j2fsp0A-7xiiwQXv95ZjPI3K-l2AIbMFKWc0/?igshid=MzRlODBiNWFlZA==) - A social media platform for sharing photos and videos
 ## Backend
 
+- [@softnetics/rbac](https://www.npmjs.com/package/@softnetics/rbac) - O(1) type safe role based access control for managing permissions and roles
 - [acoshift/goreload](https://github.com/acoshift/goreload) - Goreload automatically recompiles your code when it detects a change. Stack: Go
 - [actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes operator for scaling self-hosted runners for GitHub Actions
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - A Python library for extracting audio features from YouTube videos.
@@ -194,6 +196,7 @@ This repo is also hosting astro code and all automated stuff. You can see the di
 - [Framer Motion](https://www.framer.com/motion/) - Production-ready motion library for React. Declarative animations with a simple syntax.
 ## Security
 
+- [@softnetics/rbac](https://www.npmjs.com/package/@softnetics/rbac) - O(1) type safe role based access control for managing permissions and roles
 - [tauri](https://tauri.app/) - Desktop app framework focused on security and performance
 ## Service
 

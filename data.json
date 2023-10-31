@@ -515,5 +515,17 @@
             "math",
             "theory"
         ]
+    },
+    {
+        "by_user": "peam1146",
+        "desc": "O(1) type safe role based access control for managing permissions and roles",
+        "from_server": "Thinc.",
+        "package_name": "@softnetics/rbac",
+        "package_url": "https://www.npmjs.com/package/@softnetics/rbac",
+        "tags": [
+            "backend",
+            "auth",
+            "security"
+        ]
     }
 ]
